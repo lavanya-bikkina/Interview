@@ -1,0 +1,150 @@
+Domain,Question,,,,,,,,,,,,Answer
+Database Administration,What is database administration?,Database administration involves the management, optimization, backup, and maintenance of databases to ensure their efficient operation, availability, and security.,,,,,,Database administration involves the management  optimization  backup  and maintenance of databases to ensure their efficient operation  availability  and security.
+Database Administration,What is the role of a database administrator (DBA)?,A DBA is responsible for maintaining, securing, and ensuring the performance of databases. They handle tasks such as installation, configuration, tuning, backups, and data recovery.,,,,,A DBA is responsible for maintaining  securing  and ensuring the performance of databases. They handle tasks such as installation  configuration  tuning  backups  and data recovery.
+Database Administration,What are the different types of databases?,Common types of databases include relational databases (RDBMS), NoSQL databases, in-memory databases, and hierarchical databases.,,,,,,,,Common types of databases include relational databases (RDBMS)  NoSQL databases  in-memory databases  and hierarchical databases.
+Database Administration,What is an RDBMS?,An RDBMS (Relational Database Management System) is a database management system that stores data in a structured format, using rows and columns (tables) to organize data.,,,,,,,,,,An RDBMS (Relational Database Management System) is a database management system that stores data in a structured format  using rows and columns (tables) to organize data.
+Database Administration,What is SQL?,SQL (Structured Query Language) is a standardized programming language used to manage and manipulate relational databases, including tasks like querying, updating, and managing data.,,,,,,,,SQL (Structured Query Language) is a standardized programming language used to manage and manipulate relational databases  including tasks like querying  updating  and managing data.
+Database Administration,What are the different types of relationships in a database?,The common types of relationships are one-to-one, one-to-many, and many-to-many, which describe how tables are related to each other.,,,,,,,,The common types of relationships are one-to-one  one-to-many  and many-to-many  which describe how tables are related to each other.
+Database Administration,What is normalization?,Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity by dividing a large table into smaller tables and using relationships to link them.,,,,,,,,,,,Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity by dividing a large table into smaller tables and using relationships to link them.
+Database Administration,What are the different normal forms in database normalization?,The first three normal forms (1NF, 2NF, and 3NF) are the most commonly used. They aim to eliminate redundancy, ensure data dependencies are logical, and organize data efficiently.,,,,,,,The first three normal forms (1NF  2NF  and 3NF) are the most commonly used. They aim to eliminate redundancy  ensure data dependencies are logical  and organize data efficiently.
+Database Administration,What is denormalization?,Denormalization is the process of merging tables or adding redundant data to improve read performance at the cost of potential data anomalies and redundancy.,,,,,,,,,,,Denormalization is the process of merging tables or adding redundant data to improve read performance at the cost of potential data anomalies and redundancy.
+Database Administration,What is a primary key?,A primary key is a unique identifier for a record in a table. It ensures that each record is distinct and prevents duplicate entries.,,,,,,,,,,,A primary key is a unique identifier for a record in a table. It ensures that each record is distinct and prevents duplicate entries.
+Database Administration,What is a foreign key?,A foreign key is a field in one table that uniquely identifies a row of another table, establishing a relationship between the two tables.,,,,,,,,,,A foreign key is a field in one table that uniquely identifies a row of another table  establishing a relationship between the two tables.
+Database Administration,What is an index in a database?,An index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional space and slower write operations.,,,,,,,,,,,An index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional space and slower write operations.
+Database Administration,What is a view in a database?,A view is a virtual table based on the result of a query. It contains rows and columns derived from one or more tables, but it does not store the data itself.,,,,,,,,,,A view is a virtual table based on the result of a query. It contains rows and columns derived from one or more tables  but it does not store the data itself.
+Database Administration,What is a stored procedure?,A stored procedure is a precompiled collection of SQL statements that can be executed as a single unit to perform a specific task or set of tasks.,,,,,,,,,,,A stored procedure is a precompiled collection of SQL statements that can be executed as a single unit to perform a specific task or set of tasks.
+Database Administration,What is a trigger in a database?,A trigger is a database object that automatically executes or triggers an action when a specified event occurs on a table or view, such as inserting or updating data.,,,,,,,,,,A trigger is a database object that automatically executes or triggers an action when a specified event occurs on a table or view  such as inserting or updating data.
+Database Administration,What is a transaction in a database?,A transaction is a sequence of one or more SQL operations that are treated as a single unit, ensuring that all operations within the transaction are completed successfully or none at all.,,,,,,,,,,A transaction is a sequence of one or more SQL operations that are treated as a single unit  ensuring that all operations within the transaction are completed successfully or none at all.
+Database Administration,What is ACID in database management?,ACID stands for Atomicity, Consistency, Isolation, and Durability, which are the properties that guarantee reliable processing of database transactions.,,,,,,,ACID stands for Atomicity  Consistency  Isolation  and Durability  which are the properties that guarantee reliable processing of database transactions.
+Database Administration,What is a schema in a database?,A schema is the structure that defines the organization of data in a database, including tables, columns, relationships, and constraints.,,,,,,,A schema is the structure that defines the organization of data in a database  including tables  columns  relationships  and constraints.
+Database Administration,What is a table in a database?,A table is a collection of related data organized in rows and columns, with each column representing an attribute and each row representing a record.,,,,,,,,,,A table is a collection of related data organized in rows and columns  with each column representing an attribute and each row representing a record.
+Database Administration,What is a column in a database?,A column is a set of data values of a particular type, such as integers, text, or dates, stored within a table.,,,,,,,A column is a set of data values of a particular type  such as integers  text  or dates  stored within a table.
+Database Administration,What is a row in a database?,A row represents a single record or data entry in a table, containing data values for each column in that table.,,,,,,,,,,A row represents a single record or data entry in a table  containing data values for each column in that table.
+Database Administration,What is a constraint in a database?,A constraint is a rule applied to a column or a table to enforce data integrity. Common constraints include PRIMARY KEY, FOREIGN KEY, UNIQUE, and CHECK.,,,,,,,,A constraint is a rule applied to a column or a table to enforce data integrity. Common constraints include PRIMARY KEY  FOREIGN KEY  UNIQUE  and CHECK.
+Database Administration,What is a data warehouse?,A data warehouse is a large-scale storage system designed to store and manage vast amounts of historical data from different sources for analytical reporting and business intelligence.,,,,,,,,,,,A data warehouse is a large-scale storage system designed to store and manage vast amounts of historical data from different sources for analytical reporting and business intelligence.
+Database Administration,What is backup in database administration?,Backup is the process of creating a copy of the database to prevent data loss in case of system failure, corruption, or accidental deletion.,,,,,,,,,Backup is the process of creating a copy of the database to prevent data loss in case of system failure  corruption  or accidental deletion.
+Database Administration,What is disaster recovery in database management?,Disaster recovery is the process of restoring a database from a backup or other recovery methods to ensure data availability after a system failure or data loss.,,,,,,,,,,,Disaster recovery is the process of restoring a database from a backup or other recovery methods to ensure data availability after a system failure or data loss.
+Database Administration,What is replication in databases?,Replication involves copying data from one database server to another to increase data availability and redundancy across multiple locations.,,,,,,,,,,,Replication involves copying data from one database server to another to increase data availability and redundancy across multiple locations.
+Database Administration,What is clustering in databases?,Clustering is the process of grouping multiple database servers together to improve performance, availability, and scalability of the database system.,,,,,,,,,Clustering is the process of grouping multiple database servers together to improve performance  availability  and scalability of the database system.
+Database Administration,What is sharding in databases?,Sharding is the practice of partitioning a large database into smaller, more manageable pieces called shards, each of which is stored on a separate server.,,,,,,,,,Sharding is the practice of partitioning a large database into smaller  more manageable pieces called shards  each of which is stored on a separate server.
+Database Administration,What is database optimization?,Database optimization involves improving the performance of a database by using techniques such as indexing, query optimization, and adjusting database configurations.,,,,,,,,,Database optimization involves improving the performance of a database by using techniques such as indexing  query optimization  and adjusting database configurations.
+Database Administration,What is a deadlock in databases?,A deadlock occurs when two or more database transactions are unable to proceed because each is waiting for the other to release resources, resulting in a system freeze.,,,,,,,,,,A deadlock occurs when two or more database transactions are unable to proceed because each is waiting for the other to release resources  resulting in a system freeze.
+Database Administration,What is a log file in database management?,A log file records all the transactions and changes made to a database, which can be used for recovery in case of system failure.,,,,,,,,,,A log file records all the transactions and changes made to a database  which can be used for recovery in case of system failure.
+Database Administration,What is the difference between a database and a data warehouse?,A database is designed for transactional processing, whereas a data warehouse is designed for analytical processing, often containing historical data from multiple sources.,,,,,,,,,A database is designed for transactional processing  whereas a data warehouse is designed for analytical processing  often containing historical data from multiple sources.
+Database Administration,What is a materialized view?,A materialized view is a database object that stores the result of a query as a physical table, providing faster access to the data but requiring periodic refreshing.,,,,,,,,,,A materialized view is a database object that stores the result of a query as a physical table  providing faster access to the data but requiring periodic refreshing.
+Database Administration,What is SQL injection?,SQL injection is a type of cyberattack where malicious SQL code is inserted into an input field, compromising the security of a database.,,,,,,,,,,SQL injection is a type of cyberattack where malicious SQL code is inserted into an input field  compromising the security of a database.
+Database Administration,What is encryption in databases?,Encryption is the process of converting data into a secure format to prevent unauthorized access, ensuring that sensitive information is protected.,,,,,,,,,,Encryption is the process of converting data into a secure format to prevent unauthorized access  ensuring that sensitive information is protected.
+Database Administration,What is a backup strategy in database administration?,A backup strategy involves creating and scheduling regular backups of the database and storing them in a secure location to safeguard against data loss or corruption.,,,,,,,,,,,A backup strategy involves creating and scheduling regular backups of the database and storing them in a secure location to safeguard against data loss or corruption.
+Database Administration,What is the difference between a full backup and an incremental backup?,A full backup copies the entire database, while an incremental backup only copies the changes made since the last backup.,,,,,,,,,,A full backup copies the entire database  while an incremental backup only copies the changes made since the last backup.
+Database Administration,What is SQL tuning?,SQL tuning involves optimizing SQL queries to improve performance, reducing execution time, and minimizing resource usage.,,,,,,,,,SQL tuning involves optimizing SQL queries to improve performance  reducing execution time  and minimizing resource usage.
+Database Administration,What is a deadlock in databases?,A deadlock occurs when two or more database transactions are unable to proceed because each is waiting for the other to release resources.,,,,,,,,,,,A deadlock occurs when two or more database transactions are unable to proceed because each is waiting for the other to release resources.
+Database Administration,What is a database index?,A database index is a data structure that improves the speed of data retrieval operations by allowing for faster search and sorting of records.,,,,,,,,,,,A database index is a data structure that improves the speed of data retrieval operations by allowing for faster search and sorting of records.
+Database Administration,What is the purpose of a foreign key?,A foreign key is used to establish a relationship between two tables, ensuring that the data in the foreign key column corresponds to valid data in the referenced table.,,,,,,,,,,A foreign key is used to establish a relationship between two tables  ensuring that the data in the foreign key column corresponds to valid data in the referenced table.
+Database Administration,What is partitioning in databases?,Partitioning is the process of dividing a database into smaller, more manageable pieces, known as partitions, to improve performance and manageability.,,,,,,,,Partitioning is the process of dividing a database into smaller  more manageable pieces  known as partitions  to improve performance and manageability.
+Database Administration,What is a data integrity constraint?,A data integrity constraint is a rule applied to database columns or tables to ensure that the data is accurate, consistent, and valid.,,,,,,,,,A data integrity constraint is a rule applied to database columns or tables to ensure that the data is accurate  consistent  and valid.
+Database Administration,What is the difference between a view and a materialized view?,A view is a virtual table generated from a query, while a materialized view stores the query results physically, improving performance at the cost of storage space.,,,,,,,,,A view is a virtual table generated from a query  while a materialized view stores the query results physically  improving performance at the cost of storage space.
+Database Administration,What is data migration?,Data migration is the process of transferring data between different storage types, formats, or systems, often during system upgrades or changes.,,,,,,,,Data migration is the process of transferring data between different storage types  formats  or systems  often during system upgrades or changes.
+Database Administration,What is a relational database?,A relational database is a type of database that stores data in a structured format using tables, which are linked using relationships like primary and foreign keys.,,,,,,,,,,A relational database is a type of database that stores data in a structured format using tables  which are linked using relationships like primary and foreign keys.
+Database Administration,What is the difference between a primary key and a unique key?,A primary key uniquely identifies each record in a table, while a unique key also ensures uniqueness but allows for NULL values.,,,,,,,,,,A primary key uniquely identifies each record in a table  while a unique key also ensures uniqueness but allows for NULL values.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

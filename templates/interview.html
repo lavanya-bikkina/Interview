@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Interview</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 60%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            text-align: center;
+        }
+        h1 {
+            color: #2a9d8f;
+        }
+        .question {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+        input[type="text"] {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        button {
+            padding: 12px 20px;
+            background-color: #2a9d8f;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 18px;
+        }
+        button:hover {
+            background-color: #1f7a72;
+        }
+        .timer {
+            font-size: 24px;
+            color: #e63946;
+            font-weight: bold;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .result.correct {
+            color: #2a9d8f;
+        }
+        .result.incorrect {
+            color: #e63946;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Technical Interview</h1>
+    <p class="timer">Time left: <span id="timer">60</span> seconds</p>
+
+    <p class="question">{{ question['Question'] }}</p>
+    <form id="answerForm" method="POST">
+        <input type="text" name="user_answer" id="user_answer" placeholder="Your answer..." required>
+        <input type="hidden" name="question_index" value="{{ question_index }}">
+
+        <!-- Submit and Skip buttons -->
+        <button type="submit">Submit Answer</button>
+        <button type="button" id="skipButton">Skip Question</button>
+    </form>
+
+    <div class="result" id="result"></div>
+    <div class="similarity-score" id="similarity"></div>
+</div>
+
+<script>
+    let timer = 60;
+    const timerElement = document.getElementById("timer");
+    const answerForm = document.getElementById("answerForm");
+    const resultElement = document.getElementById("result");
+    const similarityElement = document.getElementById("similarity");
+
+    let interval = setInterval(function() {
+        if (timer > 0) {
+            timer--;
+            timerElement.textContent = timer;
+        } else {
+            clearInterval(interval);
+        }
+    }, 1000);
+
+    let totalSimilarityScore = 0;
+    let totalCorrectAnswers = 0;
+    let totalQuestions = 5;  // Total number of questions
+
+    // Handle answer submission
+    answerForm.addEventListener('submit', function(event) {
+        event.preventDefault();
+        const formData = new FormData(answerForm);
+
+        fetch('/submit_answer', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.error) {
+                alert("Error: " + data.error);
+            } else {
+                resultElement.textContent = data.result;
+                similarityElement.textContent = "Similarity Score: " + data.similarity;
+
+                totalSimilarityScore += parseFloat(data.similarity);
+                if (data.result === "Correct!") {
+                    totalCorrectAnswers++;
+                }
+
+                // Clear the answer box for the next question
+                document.getElementById("user_answer").value = "";
+
+                if (data.finished) {
+                    // Calculate final similarity score
+                    const averageSimilarityScore = totalSimilarityScore / totalQuestions;
+
+                    // Redirect to score page
+                    window.location.href = `/show_scores?final_score=${totalCorrectAnswers}&average_similarity_score=${averageSimilarityScore.toFixed(2)}`;
+                    return;
+                } else {
+                    document.querySelector(".question").textContent = data.next_question;
+                    document.querySelector("input[name='question_index']").value = data.question_index;
+
+                    // Reset timer for the next question
+                    timer = data.timer;
+                    timerElement.textContent = timer;
+
+                    // Restart the timer interval
+                    clearInterval(interval);
+                    interval = setInterval(function() {
+                        if (timer > 0) {
+                            timer--;
+                            timerElement.textContent = timer;
+                        } else {
+                            clearInterval(interval);
+                        }
+                    }, 1000);
+                }
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    });
+
+    // Handle skip button click
+    document.getElementById("skipButton").addEventListener('click', function() {
+        const formData = new FormData(answerForm);
+        formData.delete("user_answer");  // Remove any user answer
+
+        fetch('/submit_answer', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.error) {
+                alert("Error: " + data.error);
+            } else {
+                resultElement.textContent = "Skipped";
+                similarityElement.textContent = "Similarity Score: 0";
+
+                // Clear the answer box for the next question
+                document.getElementById("user_answer").value = "";
+
+                if (data.finished) {
+                    const averageSimilarityScore = totalSimilarityScore / totalQuestions;
+                    window.location.href = `/show_scores?final_score=${totalCorrectAnswers}&average_similarity_score=${averageSimilarityScore.toFixed(2)}`;
+                } else {
+                    document.querySelector(".question").textContent = data.next_question;
+                    document.querySelector("input[name='question_index']").value = data.question_index;
+
+                    // Reset timer
+                    timer = data.timer;
+                    timerElement.textContent = timer;
+
+                    clearInterval(interval);
+                    interval = setInterval(function() {
+                        if (timer > 0) {
+                            timer--;
+                            timerElement.textContent = timer;
+                        } else {
+                            clearInterval(interval);
+                        }
+                    }, 1000);
+                }
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,235 @@
+Domain,Question,,,,,,,,,Answer
+Chemical Engineering,What is Chemical Engineering?,Chemical Engineering is a branch of engineering that applies physical sciences (e.g., chemistry and physics), life sciences (e.g., biology), mathematics, and economics to produce, design, and optimize industrial processes.,Chemical Engineering is a branch of engineering that applies physical sciences (e.g.  chemistry and physics)  life sciences (e.g.  biology)  mathematics  and economics to produce  design  and optimize industrial processes.
+Chemical Engineering,What is the role of a chemical engineer?,A chemical engineer designs, optimizes, and operates processes that convert raw materials into valuable products, such as fuels, chemicals, and pharmaceuticals.,,,A chemical engineer designs  optimizes  and operates processes that convert raw materials into valuable products  such as fuels  chemicals  and pharmaceuticals.  
+Chemical Engineering,What is unit operation in chemical engineering?,Unit operations are fundamental steps in a process, such as distillation, filtration, heat exchange, or mixing, that are used to transform materials.,,,Unit operations are fundamental steps in a process  such as distillation  filtration  heat exchange  or mixing  that are used to transform materials.  
+Chemical Engineering,What is the difference between distillation and evaporation?,Distillation separates components of a mixture based on boiling points, while evaporation removes a solvent by boiling it off, leaving behind solutes.,,,,,,Distillation separates components of a mixture based on boiling points  while evaporation removes a solvent by boiling it off  leaving behind solutes.     
+Chemical Engineering,What is a heat exchanger?,A heat exchanger is a device that transfers heat between two or more fluids without mixing them, often used to regulate temperature in chemical processes.,,,,,,,A heat exchanger is a device that transfers heat between two or more fluids without mixing them  often used to regulate temperature in chemical processes.      
+Chemical Engineering,What is process optimization?,Process optimization involves improving the efficiency, yield, or cost-effectiveness of a chemical process by adjusting variables or equipment design.,,,,,,Process optimization involves improving the efficiency  yield  or cost-effectiveness of a chemical process by adjusting variables or equipment design.     
+Chemical Engineering,What is the importance of mass balance in chemical engineering?,Mass balance ensures the conservation of mass in a chemical process, helping engineers calculate input and output material quantities.,,,,,,,Mass balance ensures the conservation of mass in a chemical process  helping engineers calculate input and output material quantities.      
+Chemical Engineering,What is a P&ID (Piping and Instrumentation Diagram)?,A P&ID is a schematic representation of a chemical process, showing piping, equipment, control loops, and instrumentation.,,,,A P&ID is a schematic representation of a chemical process  showing piping  equipment  control loops  and instrumentation.   
+Chemical Engineering,What is a chemical reactor?,A chemical reactor is a vessel where chemical reactions occur under controlled conditions of temperature, pressure, and reactant concentrations.,,,,,,A chemical reactor is a vessel where chemical reactions occur under controlled conditions of temperature  pressure  and reactant concentrations.     
+Chemical Engineering,What is catalyst and how does it work?,A catalyst is a substance that speeds up a chemical reaction without being consumed, by lowering the activation energy required for the reaction.,,,,,,,A catalyst is a substance that speeds up a chemical reaction without being consumed  by lowering the activation energy required for the reaction.      
+Chemical Engineering,What is the difference between batch and continuous processes?,A batch process produces materials in discrete quantities, while a continuous process operates without interruption to produce materials in a steady flow.,,,,,,,A batch process produces materials in discrete quantities  while a continuous process operates without interruption to produce materials in a steady flow.      
+Chemical Engineering,What is fluid mechanics and its relevance in chemical engineering?,Fluid mechanics is the study of fluid behavior (liquids and gases) and is essential for designing equipment like pumps, compressors, and pipelines in chemical processes.,,,,,,Fluid mechanics is the study of fluid behavior (liquids and gases) and is essential for designing equipment like pumps  compressors  and pipelines in chemical processes.     
+Chemical Engineering,What is the significance of Reynolds number in fluid flow?,Reynolds number determines whether fluid flow is laminar (smooth) or turbulent, helping design efficient flow systems.,,,,,,,Reynolds number determines whether fluid flow is laminar (smooth) or turbulent  helping design efficient flow systems.      
+Chemical Engineering,What is the difference between heat transfer and mass transfer?,Heat transfer involves the movement of thermal energy, while mass transfer involves the movement of chemical species or components within a system.,,,,,,,Heat transfer involves the movement of thermal energy  while mass transfer involves the movement of chemical species or components within a system.      
+Chemical Engineering,What is adsorption?,Adsorption is the process by which molecules from a fluid adhere to the surface of a solid or liquid, often used in separation processes.,,,,,,,Adsorption is the process by which molecules from a fluid adhere to the surface of a solid or liquid  often used in separation processes.      
+Chemical Engineering,What is Le Chatelier's Principle?,Le Chatelier's Principle states that if a dynamic equilibrium is disturbed, the system will adjust to counteract the disturbance and restore equilibrium.,,,,,,,Le Chatelier's Principle states that if a dynamic equilibrium is disturbed  the system will adjust to counteract the disturbance and restore equilibrium.      
+Chemical Engineering,What is the purpose of a distillation column?,A distillation column separates components of a mixture based on differences in their boiling points through a series of vapor-liquid contacts.,,,,,,,,A distillation column separates components of a mixture based on differences in their boiling points through a series of vapor-liquid contacts.       
+Chemical Engineering,What is the difference between endothermic and exothermic reactions?,Endothermic reactions absorb heat, while exothermic reactions release heat during the chemical reaction.,,,,,,,Endothermic reactions absorb heat  while exothermic reactions release heat during the chemical reaction.      
+Chemical Engineering,What is the significance of chemical equilibrium in a reaction?,Chemical equilibrium occurs when the rate of the forward reaction equals the rate of the reverse reaction, resulting in no net change in concentrations.,,,,,,,Chemical equilibrium occurs when the rate of the forward reaction equals the rate of the reverse reaction  resulting in no net change in concentrations.      
+Chemical Engineering,What is the role of a pump in chemical processes?,A pump moves fluids (liquids or gases) from one location to another, often overcoming pressure differences or maintaining flow rates.,,,,,,,A pump moves fluids (liquids or gases) from one location to another  often overcoming pressure differences or maintaining flow rates.      
+Chemical Engineering,What are the types of heat transfer?,The types of heat transfer are conduction, convection, and radiation.,,,,,,The types of heat transfer are conduction  convection  and radiation.     
+Chemical Engineering,What is fractional distillation?,Fractional distillation separates components of a mixture into fractions based on their boiling points, typically used in refining crude oil.,,,,,,,Fractional distillation separates components of a mixture into fractions based on their boiling points  typically used in refining crude oil.      
+Chemical Engineering,What is corrosion and how is it prevented?,Corrosion is the degradation of materials (usually metals) due to chemical reactions with the environment, prevented by coatings, inhibitors, or cathodic protection.,,,,,Corrosion is the degradation of materials (usually metals) due to chemical reactions with the environment  prevented by coatings  inhibitors  or cathodic protection.    
+Chemical Engineering,What is polymerization?,Polymerization is a chemical process in which monomers link together to form larger molecules called polymers.,,,,,,,,Polymerization is a chemical process in which monomers link together to form larger molecules called polymers.       
+Chemical Engineering,What is the significance of the Bernoulli equation in fluid flow?,The Bernoulli equation relates pressure, velocity, and elevation in fluid flow, used to design fluid systems like pipes and pumps.,,,,,The Bernoulli equation relates pressure  velocity  and elevation in fluid flow  used to design fluid systems like pipes and pumps.    
+Chemical Engineering,What is the difference between homogeneous and heterogeneous reactions?,Homogeneous reactions occur in a single phase (e.g., gas or liquid), while heterogeneous reactions occur at the interface of different phases.,,,,,,Homogeneous reactions occur in a single phase (e.g.  gas or liquid)  while heterogeneous reactions occur at the interface of different phases.     
+Chemical Engineering,What is the purpose of a scrubber in chemical industries?,A scrubber removes pollutants from industrial exhaust gases by absorbing or neutralizing them with a liquid or solid medium.,,,,,,,,A scrubber removes pollutants from industrial exhaust gases by absorbing or neutralizing them with a liquid or solid medium.       
+Chemical Engineering,What is azeotrope?,An azeotrope is a mixture of two or more liquids that has a constant boiling point and cannot be separated by simple distillation.,,,,,,,,An azeotrope is a mixture of two or more liquids that has a constant boiling point and cannot be separated by simple distillation.       
+Chemical Engineering,What is the difference between physical and chemical absorption?,Physical absorption relies on weak intermolecular forces, while chemical absorption involves a chemical reaction between the absorbed substance and the absorbent.,,,,,,,Physical absorption relies on weak intermolecular forces  while chemical absorption involves a chemical reaction between the absorbed substance and the absorbent.      
+Chemical Engineering,What is the role of viscosity in fluid flow?,Viscosity measures a fluid's resistance to flow and affects the energy required to pump or mix fluids in a process.,,,,,,,,Viscosity measures a fluid's resistance to flow and affects the energy required to pump or mix fluids in a process.       
+Chemical Engineering,What is a cooling tower?,A cooling tower removes excess heat from industrial processes by evaporating water or transferring heat to the atmosphere.,,,,,,,,A cooling tower removes excess heat from industrial processes by evaporating water or transferring heat to the atmosphere.       
+Chemical Engineering,What is the difference between molecular diffusion and convective mass transfer?,Molecular diffusion is the movement of molecules due to concentration gradients, while convective mass transfer involves bulk movement of the fluid.,,,,,,,Molecular diffusion is the movement of molecules due to concentration gradients  while convective mass transfer involves bulk movement of the fluid.      
+Chemical Engineering,What is cracking in petroleum refining?,Cracking breaks down large hydrocarbon molecules into smaller, more useful ones, such as gasoline and diesel, using heat or catalysts.,,,,,Cracking breaks down large hydrocarbon molecules into smaller  more useful ones  such as gasoline and diesel  using heat or catalysts.    
+Chemical Engineering,What is a fluidized bed reactor?,A fluidized bed reactor suspends solid particles in a fluid flow, improving contact between reactants and catalysts for efficient chemical reactions.,,,,,,,A fluidized bed reactor suspends solid particles in a fluid flow  improving contact between reactants and catalysts for efficient chemical reactions.      
+Chemical Engineering,What is process safety?,Process safety involves identifying and mitigating risks in chemical processes to prevent accidents, such as explosions or toxic releases.,,,,,,,Process safety involves identifying and mitigating risks in chemical processes to prevent accidents  such as explosions or toxic releases.      
+Chemical Engineering,What is vapor-liquid equilibrium?,Vapor-liquid equilibrium is the state at which the rates of evaporation and condensation of a liquid are equal, important in distillation and other processes.,,,,,,,Vapor-liquid equilibrium is the state at which the rates of evaporation and condensation of a liquid are equal  important in distillation and other processes.      
+Chemical Engineering,What is fouling in heat exchangers?,Fouling is the accumulation of unwanted materials on heat exchanger surfaces, reducing efficiency and requiring regular cleaning.,,,,,,,Fouling is the accumulation of unwanted materials on heat exchanger surfaces  reducing efficiency and requiring regular cleaning.      
+Chemical Engineering,What is the importance of specific heat capacity?,Specific heat capacity measures the amount of heat required to raise the temperature of a substance and is critical in energy calculations for heating and cooling processes.,,,,,,,,Specific heat capacity measures the amount of heat required to raise the temperature of a substance and is critical in energy calculations for heating and cooling processes.       
+Chemical Engineering,What is the purpose of a chemical process simulator?,Chemical process simulators model chemical processes to predict performance, optimize designs, and troubleshoot issues.,,,,,,Chemical process simulators model chemical processes to predict performance  optimize designs  and troubleshoot issues.     
+Chemical Engineering,What is the role of an agitator in chemical processes?,An agitator promotes mixing of liquids or solids and liquids to ensure uniformity or enhance reaction rates in a reactor.,,,,,,,,An agitator promotes mixing of liquids or solids and liquids to ensure uniformity or enhance reaction rates in a reactor.       
+Chemical Engineering,What is the difference between drying and evaporation?,Drying removes moisture from a solid material, while evaporation removes a solvent from a liquid mixture.,,,,,,,Drying removes moisture from a solid material  while evaporation removes a solvent from a liquid mixture.      
+Chemical Engineering,What is the principle of supercritical fluid extraction?,Supercritical fluid extraction uses fluids at supercritical conditions (high temperature and pressure) to dissolve and separate substances efficiently.,,,,,,,,Supercritical fluid extraction uses fluids at supercritical conditions (high temperature and pressure) to dissolve and separate substances efficiently.       
+Chemical Engineering,What is a chemical process flow diagram (PFD)?,A PFD is a graphical representation of the major components and flow paths in a chemical process, showing relationships between equipment.,,,,,,,A PFD is a graphical representation of the major components and flow paths in a chemical process  showing relationships between equipment.      
+Chemical Engineering,What is the role of compressible fluids in chemical processes?,Compressible fluids (gases) require special considerations due to changes in density under varying pressure and temperature, important in equipment design.,,,,,,,Compressible fluids (gases) require special considerations due to changes in density under varying pressure and temperature  important in equipment design.      
+Chemical Engineering,What is the purpose of a centrifuge?,A centrifuge separates components of a mixture based on density differences by applying centrifugal force.,,,,,,,,A centrifuge separates components of a mixture based on density differences by applying centrifugal force.       
+Chemical Engineering,What is the role of thermodynamics in chemical engineering?,Thermodynamics provides principles for understanding energy, heat, and work in chemical processes, crucial for designing efficient systems.,,,,,Thermodynamics provides principles for understanding energy  heat  and work in chemical processes  crucial for designing efficient systems.    
+Chemical Engineering,What is the difference between adsorption and absorption?,Adsorption is the adhesion of molecules to a surface, while absorption involves molecules penetrating into a material.,,,,,,,Adsorption is the adhesion of molecules to a surface  while absorption involves molecules penetrating into a material.      
+Chemical Engineering,What is chemical kinetics?,Chemical kinetics studies the rate of chemical reactions and the factors affecting them, such as temperature, pressure, and catalysts.,,,,,Chemical kinetics studies the rate of chemical reactions and the factors affecting them  such as temperature  pressure  and catalysts.    
+Chemical Engineering,What is a process intensification?,Process intensification involves designing chemical processes to achieve higher efficiency, smaller equipment, and reduced environmental impact.,,,,,,Process intensification involves designing chemical processes to achieve higher efficiency  smaller equipment  and reduced environmental impact.     
+Chemical Engineering,What is the difference between a pressure drop and a pressure rise?,Pressure drop is a decrease in pressure as fluid flows through a system, while pressure rise occurs when pressure increases, such as in compressors.,,,,,,Pressure drop is a decrease in pressure as fluid flows through a system  while pressure rise occurs when pressure increases  such as in compressors.     
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       
+,,,,,,,,,,       

@@ -1,0 +1,145 @@
+Domain,Question,,,,,,,,,,,,Answer
+System Administration,What is the role of a system administrator?,A system administrator (sysadmin) is responsible for managing, configuring, and maintaining a company’s computer systems and servers, ensuring they are secure, efficient, and always operational.,,,,,,A system administrator (sysadmin) is responsible for managing  configuring  and maintaining a company’s computer systems and servers  ensuring they are secure  efficient  and always operational.
+System Administration,What is the difference between system administration and network administration?,System administration focuses on managing servers, operating systems, and system resources, while network administration focuses on managing and configuring network infrastructure, such as routers, switches, and firewalls.,,,,,System administration focuses on managing servers  operating systems  and system resources  while network administration focuses on managing and configuring network infrastructure  such as routers  switches  and firewalls.
+System Administration,What is a Linux system?,Linux is an open-source operating system that is widely used for servers, workstations, and embedded systems due to its stability, security, and flexibility.,,,,,,,Linux is an open-source operating system that is widely used for servers  workstations  and embedded systems due to its stability  security  and flexibility.
+System Administration,What are the basic commands for file management in Linux?,Common file management commands in Linux include `ls` (list files), `cp` (copy), `mv` (move), `rm` (remove), and `chmod` (change file permissions).,,,,,,,Common file management commands in Linux include `ls` (list files)  `cp` (copy)  `mv` (move)  `rm` (remove)  and `chmod` (change file permissions).
+System Administration,What is a shell in Linux?,A shell is a command-line interface used to interact with the operating system. Examples include the Bash shell, Zsh, and Fish.,,,,,,,,,A shell is a command-line interface used to interact with the operating system. Examples include the Bash shell  Zsh  and Fish.
+System Administration,What are the different types of user accounts in Linux?,In Linux, there are three types of user accounts: root (administrator), regular users, and service accounts.,,,,,,,,In Linux  there are three types of user accounts: root (administrator)  regular users  and service accounts.
+System Administration,What is a kernel in Linux?,The kernel is the core part of the operating system responsible for managing hardware resources, process management, and system security.,,,,,,,,,The kernel is the core part of the operating system responsible for managing hardware resources  process management  and system security.
+System Administration,What is a package manager in Linux?,A package manager is a tool used to install, update, and remove software packages in Linux. Examples include `apt` (Debian/Ubuntu), `yum` (RHEL/CentOS), and `zypper` (openSUSE).,,,,,,,A package manager is a tool used to install  update  and remove software packages in Linux. Examples include `apt` (Debian/Ubuntu)  `yum` (RHEL/CentOS)  and `zypper` (openSUSE).
+System Administration,What is a swap space in Linux?,Swap space is a reserved part of a hard drive used to extend the system's virtual memory. It is used when physical RAM is full.,,,,,,,,,,,Swap space is a reserved part of a hard drive used to extend the system's virtual memory. It is used when physical RAM is full.
+System Administration,What are system logs in Linux?,System logs are files that record events and processes happening on a system. Common log files include `/var/log/syslog` and `/var/log/messages`.,,,,,,,,,,,System logs are files that record events and processes happening on a system. Common log files include `/var/log/syslog` and `/var/log/messages`.
+System Administration,What is the `sudo` command in Linux?,The `sudo` command allows a permitted user to execute a command as the superuser or another user, as specified by the system administrator.,,,,,,,,,,The `sudo` command allows a permitted user to execute a command as the superuser or another user  as specified by the system administrator.
+System Administration,What is a process in Linux?,A process is an instance of a running program. It has its own memory space and resources, and Linux can run multiple processes simultaneously.,,,,,,,,,,A process is an instance of a running program. It has its own memory space and resources  and Linux can run multiple processes simultaneously.
+System Administration,What is the `ps` command in Linux?,The `ps` command in Linux displays information about currently running processes, such as process IDs, memory usage, and CPU usage.,,,,,,,,The `ps` command in Linux displays information about currently running processes  such as process IDs  memory usage  and CPU usage.
+System Administration,What is the `top` command in Linux?,The `top` command provides real-time system performance information, including CPU usage, memory usage, and process information.,,,,,,,,The `top` command provides real-time system performance information  including CPU usage  memory usage  and process information.
+System Administration,What is a service in Linux?,A service is a background process that runs on a system to perform tasks, such as managing web traffic (Apache) or handling database queries (MySQL).,,,,,,,,,,A service is a background process that runs on a system to perform tasks  such as managing web traffic (Apache) or handling database queries (MySQL).
+System Administration,What is `systemd` in Linux?,`systemd` is a system and service manager for Linux operating systems, responsible for booting the system, starting services, and managing processes.,,,,,,,,`systemd` is a system and service manager for Linux operating systems  responsible for booting the system  starting services  and managing processes.
+System Administration,What is the difference between `init` and `systemd`?,`init` is an older system and service manager, while `systemd` is a more modern alternative that provides faster boot times, better management, and parallel service startup.,,,,,,,,`init` is an older system and service manager  while `systemd` is a more modern alternative that provides faster boot times  better management  and parallel service startup.
+System Administration,What is SSH?,SSH (Secure Shell) is a network protocol that provides secure remote access to a computer or server over an unsecured network.,,,,,,,,,,,SSH (Secure Shell) is a network protocol that provides secure remote access to a computer or server over an unsecured network.
+System Administration,How do you set up a static IP address on Linux?,To set a static IP address, you need to modify the network configuration file (e.g., `/etc/network/interfaces` or `/etc/netplan/`) and specify the IP address, netmask, and gateway.,,,,,,,To set a static IP address  you need to modify the network configuration file (e.g.  `/etc/network/interfaces` or `/etc/netplan/`) and specify the IP address  netmask  and gateway.
+System Administration,What is a cron job in Linux?,A cron job is a scheduled task that runs at specified intervals or times, managed by the cron daemon. It is configured through the crontab file.,,,,,,,,,,A cron job is a scheduled task that runs at specified intervals or times  managed by the cron daemon. It is configured through the crontab file.
+System Administration,How do you restart a service in Linux?,You can restart a service using the command `sudo systemctl restart [service_name]`, where `[service_name]` is the name of the service you wish to restart.,,,,,,,,,,You can restart a service using the command `sudo systemctl restart [service_name]`  where `[service_name]` is the name of the service you wish to restart.
+System Administration,What is a firewall?,A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.,,,,,,,,,,,A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+System Administration,What is `iptables`?,`iptables` is a command-line utility used for configuring firewall rules in Linux. It is used to filter traffic and define security policies.,,,,,,,,,,,`iptables` is a command-line utility used for configuring firewall rules in Linux. It is used to filter traffic and define security policies.
+System Administration,What is the `ufw` command in Linux?,`ufw` (Uncomplicated Firewall) is a simplified firewall management tool in Linux, used for configuring `iptables` rules with ease.,,,,,,,,,,`ufw` (Uncomplicated Firewall) is a simplified firewall management tool in Linux  used for configuring `iptables` rules with ease.
+System Administration,What is DNS in Linux?,DNS (Domain Name System) is a protocol that translates domain names into IP addresses. It is configured in the `/etc/resolv.conf` file in Linux.,,,,,,,,,,,DNS (Domain Name System) is a protocol that translates domain names into IP addresses. It is configured in the `/etc/resolv.conf` file in Linux.
+System Administration,What is NTP in Linux?,NTP (Network Time Protocol) is a protocol used to synchronize the system clock with remote time servers to ensure accurate system time.,,,,,,,,,,,NTP (Network Time Protocol) is a protocol used to synchronize the system clock with remote time servers to ensure accurate system time.
+System Administration,What is the `df` command in Linux?,The `df` command in Linux shows disk space usage for all mounted filesystems, including the total space, used space, and available space.,,,,,,,,The `df` command in Linux shows disk space usage for all mounted filesystems  including the total space  used space  and available space.
+System Administration,What is the `du` command in Linux?,The `du` (disk usage) command shows the disk usage of files and directories.,,,,,,,,,,,The `du` (disk usage) command shows the disk usage of files and directories.
+System Administration,What is RAID?,RAID (Redundant Array of Independent Disks) is a technology used to combine multiple physical hard drives into one or more logical units for data redundancy and performance.,,,,,,,,,,,RAID (Redundant Array of Independent Disks) is a technology used to combine multiple physical hard drives into one or more logical units for data redundancy and performance.
+System Administration,What are the different types of RAID?,The common RAID levels are RAID 0 (striping), RAID 1 (mirroring), RAID 5 (striping with parity), and RAID 10 (striping and mirroring).,,,,,,,,The common RAID levels are RAID 0 (striping)  RAID 1 (mirroring)  RAID 5 (striping with parity)  and RAID 10 (striping and mirroring).
+System Administration,What is LVM in Linux?,LVM (Logical Volume Manager) is a disk management system that allows for the creation of flexible, dynamic storage volumes that can span multiple physical devices.,,,,,,,,,,LVM (Logical Volume Manager) is a disk management system that allows for the creation of flexible  dynamic storage volumes that can span multiple physical devices.
+System Administration,What is a DNS server?,A DNS server translates human-readable domain names into IP addresses, allowing clients to access resources using names rather than numeric IP addresses.,,,,,,,,,,A DNS server translates human-readable domain names into IP addresses  allowing clients to access resources using names rather than numeric IP addresses.
+System Administration,What is DHCP?,DHCP (Dynamic Host Configuration Protocol) is a network protocol used to automatically assign IP addresses and other network configuration details to devices on a network.,,,,,,,,,,,DHCP (Dynamic Host Configuration Protocol) is a network protocol used to automatically assign IP addresses and other network configuration details to devices on a network.
+System Administration,What is SELinux?,SELinux (Security-Enhanced Linux) is a set of kernel-level security policies that control access to resources in a Linux system, helping to mitigate risks from malicious activity.,,,,,,,,,,SELinux (Security-Enhanced Linux) is a set of kernel-level security policies that control access to resources in a Linux system  helping to mitigate risks from malicious activity.
+System Administration,What is a load balancer?,A load balancer is a device or software that distributes incoming network traffic across multiple servers to ensure optimal resource usage, reduce response time, and avoid overload.,,,,,,,,,A load balancer is a device or software that distributes incoming network traffic across multiple servers to ensure optimal resource usage  reduce response time  and avoid overload.
+System Administration,What is a VPN?,A VPN (Virtual Private Network) is a technology that creates a secure connection between a client and a server over the internet, providing privacy and encryption.,,,,,,,,,,A VPN (Virtual Private Network) is a technology that creates a secure connection between a client and a server over the internet  providing privacy and encryption.
+System Administration,What is the difference between TCP and UDP?,TCP (Transmission Control Protocol) is connection-oriented, reliable, and ensures data integrity, while UDP (User Datagram Protocol) is connectionless and faster but does not guarantee reliability.,,,,,,,,TCP (Transmission Control Protocol) is connection-oriented  reliable  and ensures data integrity  while UDP (User Datagram Protocol) is connectionless and faster but does not guarantee reliability.
+System Administration,What is a package manager?,A package manager is a tool used to automate the process of installing, upgrading, configuring, and removing software packages in an operating system.,,,,,,,,A package manager is a tool used to automate the process of installing  upgrading  configuring  and removing software packages in an operating system.
+System Administration,What is a backup strategy in system administration?,A backup strategy involves regularly backing up system files, configurations, and user data to prevent data loss due to hardware failure, accidental deletion, or disasters.,,,,,,,A backup strategy involves regularly backing up system files  configurations  and user data to prevent data loss due to hardware failure  accidental deletion  or disasters.
+System Administration,What is RAID 0?,RAID 0 (striping) splits data into blocks and distributes them across multiple disks to improve performance, but it does not provide redundancy or fault tolerance.,,,,,,,,,,RAID 0 (striping) splits data into blocks and distributes them across multiple disks to improve performance  but it does not provide redundancy or fault tolerance.
+System Administration,What is RAID 1?,RAID 1 (mirroring) duplicates data across two or more drives, providing redundancy. If one drive fails, the data is still available from the other drive.,,,,,,,,,RAID 1 (mirroring) duplicates data across two or more drives  providing redundancy. If one drive fails  the data is still available from the other drive.
+System Administration,What is a system image?,A system image is a complete backup of an operating system, applications, and data that can be restored to recreate the system in its original state.,,,,,,,,,A system image is a complete backup of an operating system  applications  and data that can be restored to recreate the system in its original state.
+System Administration,What is the difference between a hot backup and a cold backup?,A hot backup is performed while the system is running, whereas a cold backup is done when the system is offline, typically during maintenance or shutdown.,,,,,,,,,A hot backup is performed while the system is running  whereas a cold backup is done when the system is offline  typically during maintenance or shutdown.
+System Administration,What is a bootloader?,A bootloader is a program that loads the operating system into memory when the system is powered on or rebooted, enabling the system to start.,,,,,,,,,,A bootloader is a program that loads the operating system into memory when the system is powered on or rebooted  enabling the system to start.
+System Administration,What is a file system?,A file system is a method for organizing and storing files on a storage device, defining how data is stored and accessed on the device.,,,,,,,,,,A file system is a method for organizing and storing files on a storage device  defining how data is stored and accessed on the device.
+System Administration,What is the `chown` command in Linux?,The `chown` command in Linux is used to change the owner and group of a file or directory.,,,,,,,,,,,The `chown` command in Linux is used to change the owner and group of a file or directory.
+System Administration,What is `chmod` in Linux?,`chmod` (change mode) is a command used to change the permissions of a file or directory, controlling who can read, write, or execute it.,,,,,,,,`chmod` (change mode) is a command used to change the permissions of a file or directory  controlling who can read  write  or execute it.
+System Administration,What is a proxy server?,A proxy server is an intermediary server that sits between a client and a destination server, filtering traffic, providing anonymity, or improving performance through caching.,,,,,,,,A proxy server is an intermediary server that sits between a client and a destination server  filtering traffic  providing anonymity  or improving performance through caching.
+System Administration,What is a system update?,A system update is the process of installing the latest patches, security updates, and software updates to maintain the system’s functionality and security.,,,,,,,,,A system update is the process of installing the latest patches  security updates  and software updates to maintain the system’s functionality and security.
+System Administration,What is virtualization in system administration?,Virtualization is the creation of virtual,,,,,,,,,,,Virtualization is the creation of virtual
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

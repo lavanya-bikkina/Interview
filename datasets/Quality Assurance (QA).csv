@@ -1,0 +1,187 @@
+Domain,Question,,,,,,,,,,,,Answer
+Quality Assurance (QA),What is Quality Assurance?,Quality Assurance (QA) is the process of ensuring that a product or service meets specified requirements and standards before being released, through testing, verification, and validation.,,,,,,,,Quality Assurance (QA) is the process of ensuring that a product or service meets specified requirements and standards before being released  through testing  verification  and validation.
+Quality Assurance (QA),What is the difference between Quality Assurance (QA) and Quality Control (QC)?,Quality Assurance focuses on preventing defects by improving processes, while Quality Control focuses on identifying defects in the final product.,,,,,,,,,,Quality Assurance focuses on preventing defects by improving processes  while Quality Control focuses on identifying defects in the final product.
+Quality Assurance (QA),What are the different types of testing?,The different types of testing include unit testing, integration testing, system testing, acceptance testing, regression testing, and performance testing.,,,,,,The different types of testing include unit testing  integration testing  system testing  acceptance testing  regression testing  and performance testing.
+Quality Assurance (QA),What is unit testing?,Unit testing involves testing individual components or functions of a system to ensure they work as expected in isolation.,,,,,,,,,,,Unit testing involves testing individual components or functions of a system to ensure they work as expected in isolation.
+Quality Assurance (QA),What is integration testing?,Integration testing involves testing the interaction between different modules or components of a system to ensure they work together correctly.,,,,,,,,,,,Integration testing involves testing the interaction between different modules or components of a system to ensure they work together correctly.
+Quality Assurance (QA),What is system testing?,System testing is a type of testing that evaluates the entire system's functionality to ensure that all components work as intended and meet the requirements.,,,,,,,,,,,System testing is a type of testing that evaluates the entire system's functionality to ensure that all components work as intended and meet the requirements.
+Quality Assurance (QA),What is acceptance testing?,Acceptance testing involves verifying that the product meets the business requirements and is ready for delivery to the client or end user.,,,,,,,,,,,Acceptance testing involves verifying that the product meets the business requirements and is ready for delivery to the client or end user.
+Quality Assurance (QA),What is regression testing?,Regression testing is the process of testing previously tested software to ensure that new changes or fixes have not introduced new defects.,,,,,,,,,,,Regression testing is the process of testing previously tested software to ensure that new changes or fixes have not introduced new defects.
+Quality Assurance (QA),What is performance testing?,Performance testing evaluates the speed, scalability, and reliability of a system under various conditions.,,,,,,,,,Performance testing evaluates the speed  scalability  and reliability of a system under various conditions.
+Quality Assurance (QA),What is load testing?,Load testing is a type of performance testing that evaluates the system's ability to handle a specific load or number of users without degrading performance.,,,,,,,,,,,Load testing is a type of performance testing that evaluates the system's ability to handle a specific load or number of users without degrading performance.
+Quality Assurance (QA),What is stress testing?,Stress testing involves testing a system's behavior under extreme conditions or loads to determine its breaking point.,,,,,,,,,,,Stress testing involves testing a system's behavior under extreme conditions or loads to determine its breaking point.
+Quality Assurance (QA),What is usability testing?,Usability testing involves evaluating the user experience to ensure that the system is user-friendly, efficient, and easy to use.,,,,,,,,,Usability testing involves evaluating the user experience to ensure that the system is user-friendly  efficient  and easy to use.
+Quality Assurance (QA),What is smoke testing?,Smoke testing is a preliminary test to check whether the basic functionality of the software works after a new build or update.,,,,,,,,,,,Smoke testing is a preliminary test to check whether the basic functionality of the software works after a new build or update.
+Quality Assurance (QA),What is sanity testing?,Sanity testing involves checking specific functionalities of the system to ensure they work as expected, often after bug fixes or minor changes.,,,,,,,,,,Sanity testing involves checking specific functionalities of the system to ensure they work as expected  often after bug fixes or minor changes.
+Quality Assurance (QA),What is exploratory testing?,Exploratory testing is an approach where testers explore the application without predefined test cases, using their experience and intuition to find defects.,,,,,,,,,,Exploratory testing is an approach where testers explore the application without predefined test cases  using their experience and intuition to find defects.
+Quality Assurance (QA),What is black-box testing?,Black-box testing focuses on testing the system based on its functionality without knowledge of its internal workings or code.,,,,,,,,,,,Black-box testing focuses on testing the system based on its functionality without knowledge of its internal workings or code.
+Quality Assurance (QA),What is white-box testing?,White-box testing involves testing the internal workings of the system, focusing on the code, logic, and structure of the application.,,,,,,,,White-box testing involves testing the internal workings of the system  focusing on the code  logic  and structure of the application.
+Quality Assurance (QA),What is acceptance criteria?,Acceptance criteria are specific conditions that a product must meet to be considered complete and acceptable by the stakeholders or client.,,,,,,,,,,,Acceptance criteria are specific conditions that a product must meet to be considered complete and acceptable by the stakeholders or client.
+Quality Assurance (QA),What is the difference between a bug and a defect?,A bug is a fault or flaw in the software, while a defect refers to any divergence from the expected behavior or requirements.,,,,,,,,,,A bug is a fault or flaw in the software  while a defect refers to any divergence from the expected behavior or requirements.
+Quality Assurance (QA),What is a test case?,A test case is a set of conditions or variables used to determine if a system or software behaves as expected under specific scenarios.,,,,,,,,,,,A test case is a set of conditions or variables used to determine if a system or software behaves as expected under specific scenarios.
+Quality Assurance (QA),What is a test plan?,A test plan is a document that outlines the scope, approach, resources, and schedule for testing activities, as well as the objectives and deliverables.,,,,,,,A test plan is a document that outlines the scope  approach  resources  and schedule for testing activities  as well as the objectives and deliverables.
+Quality Assurance (QA),What is a test scenario?,A test scenario is a high-level description of a feature or functionality to be tested in the system.,,,,,,,,,,,A test scenario is a high-level description of a feature or functionality to be tested in the system.
+Quality Assurance (QA),What is a test script?,A test script is a detailed set of instructions for testing a specific feature or functionality, often executed manually or automatically.,,,,,,,,,,A test script is a detailed set of instructions for testing a specific feature or functionality  often executed manually or automatically.
+Quality Assurance (QA),What is defect life cycle?,The defect life cycle is the process through which a defect passes, from identification to resolution," including stages such as ""new", open, fixed," and closed.""",,,,,,"The defect life cycle is the process through which a defect passes  from identification to resolution  including stages such as ""new  open  fixed  and closed."""
+Quality Assurance (QA),What is the purpose of a bug tracking tool?,A bug tracking tool is used to log, manage, and track the status of defects or bugs found during testing to ensure they are addressed and resolved.,,,,,,,,,A bug tracking tool is used to log  manage  and track the status of defects or bugs found during testing to ensure they are addressed and resolved.
+Quality Assurance (QA),What is a severity level?,Severity level is a measure of the impact a defect has on the system, ranging from critical (severe impact) to minor (low impact).,,,,,,,,,,Severity level is a measure of the impact a defect has on the system  ranging from critical (severe impact) to minor (low impact).
+Quality Assurance (QA),What is a priority level?,Priority level is a measure of how urgently a defect should be fixed, based on the business needs and deadlines.,,,,,,,,,,Priority level is a measure of how urgently a defect should be fixed  based on the business needs and deadlines.
+Quality Assurance (QA),What is the difference between severity and priority?,Severity refers to the impact of the defect on the system, while priority refers to how soon the defect should be fixed, based on business or project needs.,,,,,,,,,Severity refers to the impact of the defect on the system  while priority refers to how soon the defect should be fixed  based on business or project needs.
+Quality Assurance (QA),What is the purpose of regression testing?,Regression testing ensures that new changes or updates to the system have not unintentionally affected the existing functionality.,,,,,,,,,,,Regression testing ensures that new changes or updates to the system have not unintentionally affected the existing functionality.
+Quality Assurance (QA),What is the difference between functional and non-functional testing?,Functional testing focuses on verifying that the system performs its intended functions correctly, while non-functional testing focuses on aspects like performance, usability, and security.,,,,,,,,Functional testing focuses on verifying that the system performs its intended functions correctly  while non-functional testing focuses on aspects like performance  usability  and security.
+Quality Assurance (QA),What is load testing used for?,Load testing is used to determine how a system performs under a specific expected load or user load, ensuring it can handle the required amount of traffic.,,,,,,,,,,Load testing is used to determine how a system performs under a specific expected load or user load  ensuring it can handle the required amount of traffic.
+Quality Assurance (QA),What is a user acceptance test (UAT)?,User Acceptance Testing (UAT) is performed by the end users or clients to verify that the system meets their requirements and expectations before final delivery.,,,,,,,,,,,User Acceptance Testing (UAT) is performed by the end users or clients to verify that the system meets their requirements and expectations before final delivery.
+Quality Assurance (QA),What is continuous testing?,Continuous testing is the practice of testing early and frequently throughout the development lifecycle, often through automated testing, to ensure faster feedback and quicker detection of issues.,,,,,,,,,Continuous testing is the practice of testing early and frequently throughout the development lifecycle  often through automated testing  to ensure faster feedback and quicker detection of issues.
+Quality Assurance (QA),What is the purpose of automation testing?,Automation testing involves using scripts and tools to automatically execute tests, increasing efficiency and coverage, especially for repetitive tests or large-scale projects.,,,,,,,,,Automation testing involves using scripts and tools to automatically execute tests  increasing efficiency and coverage  especially for repetitive tests or large-scale projects.
+Quality Assurance (QA),What are some popular automation testing tools?,Popular automation testing tools include Selenium, QTP (QuickTest Professional), Appium, and TestComplete.,,,,,,,,Popular automation testing tools include Selenium  QTP (QuickTest Professional)  Appium  and TestComplete.
+Quality Assurance (QA),What is the role of a QA engineer in the software development life cycle?,A QA engineer is responsible for ensuring that the software is of high quality by designing test plans, writing test cases, executing tests, reporting defects, and collaborating with developers and other stakeholders.,,,,,,,A QA engineer is responsible for ensuring that the software is of high quality by designing test plans  writing test cases  executing tests  reporting defects  and collaborating with developers and other stakeholders.
+Quality Assurance (QA),What is a continuous integration/continuous delivery (CI/CD) pipeline?,A CI/CD pipeline automates the process of integrating code changes, running tests, and deploying software, ensuring faster, more reliable software delivery.,,,,,,,A CI/CD pipeline automates the process of integrating code changes  running tests  and deploying software  ensuring faster  more reliable software delivery.
+Quality Assurance (QA),What is the difference between manual and automated testing?,Manual testing requires testers to execute test cases manually, while automated testing uses tools and scripts to execute tests automatically, improving efficiency and coverage.,,,,,,,,,Manual testing requires testers to execute test cases manually  while automated testing uses tools and scripts to execute tests automatically  improving efficiency and coverage.
+Quality Assurance (QA),What is smoke testing?,Smoke testing is a high-level test conducted to check the basic functionality of the application and ensure it is stable enough for more rigorous testing.,,,,,,,,,,,Smoke testing is a high-level test conducted to check the basic functionality of the application and ensure it is stable enough for more rigorous testing.
+Quality Assurance (QA),What is an API testing?,API testing verifies that the application programming interfaces (APIs) function correctly, checking whether they return the expected data and handle errors properly.,,,,,,,,,,API testing verifies that the application programming interfaces (APIs) function correctly  checking whether they return the expected data and handle errors properly.
+Quality Assurance (QA),What is pair testing?,Pair testing involves two testers working together, one testing while the other observes and provides feedback, often used for collaboration and knowledge sharing.,,,,,,,,,Pair testing involves two testers working together  one testing while the other observes and provides feedback  often used for collaboration and knowledge sharing.
+Quality Assurance (QA),What is boundary value analysis?,Boundary value analysis is a testing technique that focuses on testing the boundaries of input values, as errors often occur at the edges of valid input ranges.,,,,,,,,,,Boundary value analysis is a testing technique that focuses on testing the boundaries of input values  as errors often occur at the edges of valid input ranges.
+Quality Assurance (QA),What is equivalence partitioning?,Equivalence partitioning is a testing technique that divides input data into equivalent classes, reducing the number of test cases by testing one value from each class.,,,,,,,,,,Equivalence partitioning is a testing technique that divides input data into equivalent classes  reducing the number of test cases by testing one value from each class.
+Quality Assurance (QA),What is exploratory testing?,Exploratory testing is an informal approach to testing where testers explore the application to discover potential issues without predefined test cases.,,,,,,,,,,,Exploratory testing is an informal approach to testing where testers explore the application to discover potential issues without predefined test cases.
+Quality Assurance (QA),What is static testing?,Static testing involves reviewing the code, documentation, or other artifacts without executing the program, often through techniques like code reviews or static analysis tools.,,,,,,,,Static testing involves reviewing the code  documentation  or other artifacts without executing the program  often through techniques like code reviews or static analysis tools.
+Quality Assurance (QA),What is dynamic testing?,Dynamic testing involves executing the application and checking its behavior during runtime, typically using test cases and scripts.,,,,,,,,,,Dynamic testing involves executing the application and checking its behavior during runtime  typically using test cases and scripts.
+Quality Assurance (QA),What is test-driven development (TDD)?,Test-Driven Development (TDD) is a software development approach where tests are written before the code, ensuring that the software is developed to meet the test cases.,,,,,,,,,,Test-Driven Development (TDD) is a software development approach where tests are written before the code  ensuring that the software is developed to meet the test cases.
+Quality Assurance (QA),What is a test bed?,A test bed is a testing environment used to execute test cases, including the necessary hardware, software, and configuration.,,,,,,,,A test bed is a testing environment used to execute test cases  including the necessary hardware  software  and configuration.
+Quality Assurance (QA),What is a defect report?,A defect report is a document that describes a bug or defect found during testing, including steps to reproduce, expected behavior, and actual behavior.,,,,,,,,A defect report is a document that describes a bug or defect found during testing  including steps to reproduce  expected behavior  and actual behavior.
+Quality Assurance (QA),What is the difference between positive and negative testing?,Positive testing checks that the system behaves as expected with valid inputs, while negative testing checks how the system handles invalid inputs or edge cases.,,,,,,,,,,Positive testing checks that the system behaves as expected with valid inputs  while negative testing checks how the system handles invalid inputs or edge cases.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

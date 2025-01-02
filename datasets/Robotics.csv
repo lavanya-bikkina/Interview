@@ -1,0 +1,169 @@
+Domain,Question,,,,,,,,,,,,Answer
+Robotics,What is robotics?,Robotics is the branch of engineering and science that involves the design, construction, operation, and use of robots to perform tasks that are often repetitive, dangerous, or complex.,,,,,,Robotics is the branch of engineering and science that involves the design  construction  operation  and use of robots to perform tasks that are often repetitive  dangerous  or complex.
+Robotics,What are the types of robots?,The main types of robots include industrial robots, service robots, medical robots, military robots, autonomous vehicles, and humanoid robots.,,,,,,The main types of robots include industrial robots  service robots  medical robots  military robots  autonomous vehicles  and humanoid robots.
+Robotics,What is an industrial robot?,An industrial robot is a programmable machine used in manufacturing and production processes to automate tasks such as welding, painting, assembly, and packaging.,,,,,,,,An industrial robot is a programmable machine used in manufacturing and production processes to automate tasks such as welding  painting  assembly  and packaging.
+Robotics,What is a humanoid robot?,A humanoid robot is a robot designed to resemble the human body in structure, with a head, arms, and legs, and it is often used for research, entertainment, and customer service.,,,,,A humanoid robot is a robot designed to resemble the human body in structure  with a head  arms  and legs  and it is often used for research  entertainment  and customer service.
+Robotics,What is the difference between a robot and an automation system?,A robot is a programmable machine that can perform specific tasks autonomously or with minimal human intervention, whereas an automation system is a broader concept involving the use of machines, processes, and controls to perform repetitive tasks.,,,,,,,,A robot is a programmable machine that can perform specific tasks autonomously or with minimal human intervention  whereas an automation system is a broader concept involving the use of machines  processes  and controls to perform repetitive tasks.
+Robotics,What are the main components of a robot?,The main components of a robot include sensors (for perception), actuators (for movement), control systems (for decision making), and power sources.,,,,,,,,The main components of a robot include sensors (for perception)  actuators (for movement)  control systems (for decision making)  and power sources.
+Robotics,What is artificial intelligence (AI) in robotics?,AI in robotics involves the use of algorithms and machine learning techniques to enable robots to perform tasks autonomously, adapt to new environments, and make decisions based on sensory data.,,,,,,,,,AI in robotics involves the use of algorithms and machine learning techniques to enable robots to perform tasks autonomously  adapt to new environments  and make decisions based on sensory data.
+Robotics,What is a robot controller?,A robot controller is a device or software system that manages the actions of a robot, interpreting commands and controlling the robot's movement, sensors, and interactions with its environment.,,,,,,,,A robot controller is a device or software system that manages the actions of a robot  interpreting commands and controlling the robot's movement  sensors  and interactions with its environment.
+Robotics,What is a robot actuator?,A robot actuator is a device responsible for moving or controlling a part of the robot, such as motors, hydraulic systems, or pneumatic devices, which enable the robot to perform specific tasks.,,,,,,,A robot actuator is a device responsible for moving or controlling a part of the robot  such as motors  hydraulic systems  or pneumatic devices  which enable the robot to perform specific tasks.
+Robotics,What is a robot sensor?,A robot sensor is a device that provides information to the robot about its environment, such as vision (cameras), proximity (ultrasonic sensors), touch (pressure sensors), and orientation (gyroscopes).,,,,,,,A robot sensor is a device that provides information to the robot about its environment  such as vision (cameras)  proximity (ultrasonic sensors)  touch (pressure sensors)  and orientation (gyroscopes).
+Robotics,What is kinematics in robotics?,Kinematics in robotics is the study of motion without considering forces, focusing on the relationships between the movement of robot joints and the position and orientation of the robot's end effector.,,,,,,,,,,Kinematics in robotics is the study of motion without considering forces  focusing on the relationships between the movement of robot joints and the position and orientation of the robot's end effector.
+Robotics,What is inverse kinematics in robotics?,Inverse kinematics is the process of calculating the joint angles or positions required for a robot to achieve a desired position and orientation of its end effector.,,,,,,,,,,,Inverse kinematics is the process of calculating the joint angles or positions required for a robot to achieve a desired position and orientation of its end effector.
+Robotics,What is the difference between open-loop and closed-loop control in robotics?,Open-loop control does not use feedback from sensors to adjust the robot's actions, whereas closed-loop control uses feedback from sensors to continually adjust the robot's movements and performance.,,,,,,,,,,Open-loop control does not use feedback from sensors to adjust the robot's actions  whereas closed-loop control uses feedback from sensors to continually adjust the robot's movements and performance.
+Robotics,What is a robot end effector?,A robot end effector is the tool or device attached to the robot's arm or manipulator, used to perform tasks such as gripping, welding, painting, or cutting.,,,,,,,A robot end effector is the tool or device attached to the robot's arm or manipulator  used to perform tasks such as gripping  welding  painting  or cutting.
+Robotics,What is robot vision?,Robot vision is the use of cameras and computer vision algorithms to enable robots to perceive and interpret their surroundings, allowing them to perform tasks like object recognition and navigation.,,,,,,,,,,Robot vision is the use of cameras and computer vision algorithms to enable robots to perceive and interpret their surroundings  allowing them to perform tasks like object recognition and navigation.
+Robotics,What are the applications of robotics in healthcare?,Robotics in healthcare includes applications such as surgical robots, robotic prosthetics, rehabilitation robots, and robots for elderly care or assistance with mobility.,,,,,,,,Robotics in healthcare includes applications such as surgical robots  robotic prosthetics  rehabilitation robots  and robots for elderly care or assistance with mobility.
+Robotics,What is SLAM in robotics?,SLAM (Simultaneous Localization and Mapping) is a technique used in robotics that allows a robot to build a map of an unknown environment while simultaneously keeping track of its own location within the map.,,,,,,,,,,,SLAM (Simultaneous Localization and Mapping) is a technique used in robotics that allows a robot to build a map of an unknown environment while simultaneously keeping track of its own location within the map.
+Robotics,What is robot learning?,Robot learning involves teaching robots to perform tasks by using machine learning techniques, allowing them to adapt to new environments and improve their performance based on experience.,,,,,,,,,,Robot learning involves teaching robots to perform tasks by using machine learning techniques  allowing them to adapt to new environments and improve their performance based on experience.
+Robotics,What is a collaborative robot?,A collaborative robot, or cobot, is a robot designed to work alongside humans in a shared workspace, often with safety features to ensure safe interaction with human workers.,,,,,,,,A collaborative robot  or cobot  is a robot designed to work alongside humans in a shared workspace  often with safety features to ensure safe interaction with human workers.
+Robotics,What is a robot swarm?,A robot swarm is a group of autonomous robots that work together to perform tasks, such as search and rescue, environmental monitoring, or manufacturing, often using decentralized coordination.,,,,,,,A robot swarm is a group of autonomous robots that work together to perform tasks  such as search and rescue  environmental monitoring  or manufacturing  often using decentralized coordination.
+Robotics,What is path planning in robotics?,Path planning in robotics refers to the process of determining an optimal or feasible path for a robot to follow in its environment while avoiding obstacles and satisfying certain constraints.,,,,,,,,,,,Path planning in robotics refers to the process of determining an optimal or feasible path for a robot to follow in its environment while avoiding obstacles and satisfying certain constraints.
+Robotics,What is a robot arm?,A robot arm is a mechanical arm with multiple joints and actuators, designed to perform tasks such as manipulation, assembly, or welding in industrial or laboratory settings.,,,,,,,,A robot arm is a mechanical arm with multiple joints and actuators  designed to perform tasks such as manipulation  assembly  or welding in industrial or laboratory settings.
+Robotics,What is ROS (Robot Operating System)?,ROS is an open-source framework for building robot applications, providing tools and libraries for controlling robots, handling sensor data, managing motion, and facilitating communication between components.,,,,,,,ROS is an open-source framework for building robot applications  providing tools and libraries for controlling robots  handling sensor data  managing motion  and facilitating communication between components.
+Robotics,What are the challenges in robotics?,Challenges in robotics include issues related to sensing and perception, robot autonomy, real-time decision-making, robot safety, energy efficiency, and integration with existing systems.,,,,,,Challenges in robotics include issues related to sensing and perception  robot autonomy  real-time decision-making  robot safety  energy efficiency  and integration with existing systems.
+Robotics,What is a robotic operating cell?,A robotic operating cell is a designated area within a factory or facility where robots work autonomously or collaboratively to perform specific tasks, such as assembly, packaging, or material handling.,,,,,,,,A robotic operating cell is a designated area within a factory or facility where robots work autonomously or collaboratively to perform specific tasks  such as assembly  packaging  or material handling.
+Robotics,What are the main types of actuators used in robots?,The main types of actuators used in robots are electric motors, hydraulic actuators, pneumatic actuators, and piezoelectric actuators, each suitable for different applications based on force, precision, and speed.,,,,,The main types of actuators used in robots are electric motors  hydraulic actuators  pneumatic actuators  and piezoelectric actuators  each suitable for different applications based on force  precision  and speed.
+Robotics,What is a robot programming language?,A robot programming language is a specific language used to program a robot’s movements and behaviors, such as URScript (for Universal Robots), KRL (for KUKA robots), or RAPID (for ABB robots).,,,,,,,,A robot programming language is a specific language used to program a robot’s movements and behaviors  such as URScript (for Universal Robots)  KRL (for KUKA robots)  or RAPID (for ABB robots).
+Robotics,What is a robot gripper?,A robot gripper is a device attached to the robot's arm used to hold, pick, and manipulate objects. It can be a mechanical, vacuum, or magnetic gripper, depending on the application.,,,,,,A robot gripper is a device attached to the robot's arm used to hold  pick  and manipulate objects. It can be a mechanical  vacuum  or magnetic gripper  depending on the application.
+Robotics,What is a robotic exoskeleton?,A robotic exoskeleton is a wearable robotic device that enhances a human's physical abilities by providing external support, improving mobility, and assisting in rehabilitation or strength enhancement.,,,,,,,,,A robotic exoskeleton is a wearable robotic device that enhances a human's physical abilities by providing external support  improving mobility  and assisting in rehabilitation or strength enhancement.
+Robotics,What is force sensing in robotics?,Force sensing in robotics involves using sensors to measure the force or torque applied by a robot's end effector, which allows it to perform delicate tasks such as assembly or surgery with high precision.,,,,,,,,,,Force sensing in robotics involves using sensors to measure the force or torque applied by a robot's end effector  which allows it to perform delicate tasks such as assembly or surgery with high precision.
+Robotics,What is a robot's feedback loop?,A robot's feedback loop refers to the process of monitoring the robot's actions and adjusting its movements based on feedback from sensors, allowing the robot to maintain accuracy and perform tasks autonomously.,,,,,,,,,,A robot's feedback loop refers to the process of monitoring the robot's actions and adjusting its movements based on feedback from sensors  allowing the robot to maintain accuracy and perform tasks autonomously.
+Robotics,What is robot motion control?,Robot motion control is the process of directing a robot’s movement in a desired direction or pattern, often involving algorithms to ensure precise and coordinated motion of joints or actuators.,,,,,,,,,,Robot motion control is the process of directing a robot’s movement in a desired direction or pattern  often involving algorithms to ensure precise and coordinated motion of joints or actuators.
+Robotics,What is a manipulator in robotics?,A manipulator is the part of a robot designed to interact with objects, often consisting of arms, joints, and an end effector that can move and manipulate objects in the robot’s environment.,,,,,,,,A manipulator is the part of a robot designed to interact with objects  often consisting of arms  joints  and an end effector that can move and manipulate objects in the robot’s environment.
+Robotics,What is a robot's mobility?,Robot mobility refers to the robot’s ability to move through its environment, which could involve wheels, tracks, legs, or other specialized mechanisms for navigating different surfaces and obstacles.,,,,,,,Robot mobility refers to the robot’s ability to move through its environment  which could involve wheels  tracks  legs  or other specialized mechanisms for navigating different surfaces and obstacles.
+Robotics,What is a mobile robot?,A mobile robot is a robot that can move around its environment autonomously or semi-autonomously, often equipped with wheels, legs, or other mobility devices for navigation.,,,,,,,,A mobile robot is a robot that can move around its environment autonomously or semi-autonomously  often equipped with wheels  legs  or other mobility devices for navigation.
+Robotics,What is a robotic system architecture?,A robotic system architecture refers to the design and structure of a robot’s components, including hardware, software, and control systems that work together to enable the robot to perform its tasks.,,,,,,,,A robotic system architecture refers to the design and structure of a robot’s components  including hardware  software  and control systems that work together to enable the robot to perform its tasks.
+Robotics,What is autonomous navigation in robotics?,Autonomous navigation in robotics involves using sensors, algorithms, and maps to allow a robot to navigate its environment without human intervention, typically using techniques like SLAM or GPS.,,,,,,,,Autonomous navigation in robotics involves using sensors  algorithms  and maps to allow a robot to navigate its environment without human intervention  typically using techniques like SLAM or GPS.
+Robotics,What are the types of robot joints?,Types of robot joints include revolute joints (which rotate), prismatic joints (which translate), and spherical joints (which provide rotation in multiple directions).,,,,,,,,,Types of robot joints include revolute joints (which rotate)  prismatic joints (which translate)  and spherical joints (which provide rotation in multiple directions).
+Robotics,What is inverse dynamics in robotics?,Inverse dynamics is the process of calculating the forces or torques required at the robot's joints to achieve a desired motion, typically used in control systems for motion planning.,,,,,,,,,,Inverse dynamics is the process of calculating the forces or torques required at the robot's joints to achieve a desired motion  typically used in control systems for motion planning.
+Robotics,What are the factors influencing robot design?,Factors influencing robot design include the intended application, size, power requirements, degrees of freedom, sensors, actuators, and the environment in which the robot will operate.,,,,,Factors influencing robot design include the intended application  size  power requirements  degrees of freedom  sensors  actuators  and the environment in which the robot will operate.
+Robotics,What is the significance of robot safety?,Robot safety is crucial in ensuring that robots can operate safely alongside humans and other machines, involving measures such as emergency stops, sensors, and collaborative workspaces.,,,,,,,,Robot safety is crucial in ensuring that robots can operate safely alongside humans and other machines  involving measures such as emergency stops  sensors  and collaborative workspaces.
+Robotics,What are the types of robot locomotion?,Types of robot locomotion include wheeled locomotion, tracked locomotion, legged locomotion (bipedal or quadrupedal), and aerial locomotion (using drones or flying robots).,,,,,,,,Types of robot locomotion include wheeled locomotion  tracked locomotion  legged locomotion (bipedal or quadrupedal)  and aerial locomotion (using drones or flying robots).
+Robotics,What is an articulated robot?,An articulated robot is a type of industrial robot with rotary joints, designed to perform tasks that require a high degree of flexibility and reach, such as assembly or welding.,,,,,,,,,An articulated robot is a type of industrial robot with rotary joints  designed to perform tasks that require a high degree of flexibility and reach  such as assembly or welding.
+Robotics,What is trajectory planning in robotics?,Trajectory planning in robotics involves calculating the path that a robot's end effector will follow over time, ensuring smooth motion and avoiding obstacles in the environment.,,,,,,,,,,Trajectory planning in robotics involves calculating the path that a robot's end effector will follow over time  ensuring smooth motion and avoiding obstacles in the environment.
+Robotics,What is a robot's cognitive system?,A robot's cognitive system refers to its ability to process information, make decisions, learn from experiences, and adapt to new tasks and environments, often using AI and machine learning techniques.,,,,,,,A robot's cognitive system refers to its ability to process information  make decisions  learn from experiences  and adapt to new tasks and environments  often using AI and machine learning techniques.
+Robotics,What is machine vision in robotics?,Machine vision in robotics involves using cameras and computer vision algorithms to allow robots to perceive and interpret visual information, enabling them to perform tasks like object detection and navigation.,,,,,,,,,,Machine vision in robotics involves using cameras and computer vision algorithms to allow robots to perceive and interpret visual information  enabling them to perform tasks like object detection and navigation.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

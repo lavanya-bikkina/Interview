@@ -1,0 +1,202 @@
+Domain,Question,,,,,,,,,,,,Answer
+Machine Learning,What is the difference between supervised and unsupervised learning?,Supervised learning uses labeled data to train models to predict outcomes, while unsupervised learning uses unlabeled data to find patterns and relationships within the data.,,,,,,,,,,Supervised learning uses labeled data to train models to predict outcomes  while unsupervised learning uses unlabeled data to find patterns and relationships within the data.
+Machine Learning,What is overfitting?,Overfitting occurs when a model learns not only the underlying patterns in the data but also the noise or random fluctuations, which leads to poor performance on unseen data.,,,,,,,,,,Overfitting occurs when a model learns not only the underlying patterns in the data but also the noise or random fluctuations  which leads to poor performance on unseen data.
+Machine Learning,What is underfitting?,Underfitting happens when a model is too simple and cannot capture the underlying patterns in the data, leading to poor performance both on training and test data.,,,,,,,,,,Underfitting happens when a model is too simple and cannot capture the underlying patterns in the data  leading to poor performance both on training and test data.
+Machine Learning,What is a confusion matrix?,A confusion matrix is a table used to evaluate the performance of a classification model, showing the number of true positive, false positive, true negative, and false negative predictions.,,,,,,,A confusion matrix is a table used to evaluate the performance of a classification model  showing the number of true positive  false positive  true negative  and false negative predictions.
+Machine Learning,What are precision and recall?,Precision is the ratio of true positive predictions to the total predicted positives, while recall is the ratio of true positive predictions to the total actual positives.,,,,,,,,,,Precision is the ratio of true positive predictions to the total predicted positives  while recall is the ratio of true positive predictions to the total actual positives.
+Machine Learning,What is a ROC curve?,A ROC (Receiver Operating Characteristic) curve is a graphical representation of a classifier's performance, plotting the true positive rate against the false positive rate at different thresholds.,,,,,,,,,,A ROC (Receiver Operating Characteristic) curve is a graphical representation of a classifier's performance  plotting the true positive rate against the false positive rate at different thresholds.
+Machine Learning,What is a hyperparameter?,A hyperparameter is a parameter that is set before training a model and controls the model's learning process, such as the learning rate or the number of trees in a random forest.,,,,,,,,,,A hyperparameter is a parameter that is set before training a model and controls the model's learning process  such as the learning rate or the number of trees in a random forest.
+Machine Learning,What is cross-validation?,Cross-validation is a technique used to assess the performance of a machine learning model by dividing the data into subsets, training the model on some subsets and testing it on others.,,,,,,,,,,Cross-validation is a technique used to assess the performance of a machine learning model by dividing the data into subsets  training the model on some subsets and testing it on others.
+Machine Learning,What is gradient descent?,Gradient descent is an optimization algorithm used to minimize the cost function in machine learning by iteratively adjusting the model parameters in the direction of the steepest descent.,,,,,,,,,,,Gradient descent is an optimization algorithm used to minimize the cost function in machine learning by iteratively adjusting the model parameters in the direction of the steepest descent.
+Machine Learning,What is the bias-variance tradeoff?,The bias-variance tradeoff refers to the balance between a model's bias (error due to overly simplistic assumptions) and variance (error due to model complexity). Reducing bias increases variance, and reducing variance increases bias.,,,,,,,,,,The bias-variance tradeoff refers to the balance between a model's bias (error due to overly simplistic assumptions) and variance (error due to model complexity). Reducing bias increases variance  and reducing variance increases bias.
+Machine Learning,What is the purpose of feature scaling?,Feature scaling is the process of normalizing or standardizing features so they have a similar scale, which helps improve the performance and convergence speed of certain algorithms.,,,,,,,,,,Feature scaling is the process of normalizing or standardizing features so they have a similar scale  which helps improve the performance and convergence speed of certain algorithms.
+Machine Learning,What is the difference between bagging and boosting?,Bagging (Bootstrap Aggregating) involves training multiple models in parallel and averaging their predictions, while boosting sequentially trains models, each correcting the errors of the previous one.,,,,,,,,,Bagging (Bootstrap Aggregating) involves training multiple models in parallel and averaging their predictions  while boosting sequentially trains models  each correcting the errors of the previous one.
+Machine Learning,What is a decision tree?,A decision tree is a machine learning model that makes decisions based on asking a series of questions, leading to a prediction by traversing a tree-like structure.,,,,,,,,,,A decision tree is a machine learning model that makes decisions based on asking a series of questions  leading to a prediction by traversing a tree-like structure.
+Machine Learning,What is k-means clustering?,K-means clustering is an unsupervised machine learning algorithm used to partition data into k clusters based on feature similarity, minimizing the variance within each cluster.,,,,,,,,,,K-means clustering is an unsupervised machine learning algorithm used to partition data into k clusters based on feature similarity  minimizing the variance within each cluster.
+Machine Learning,What is a neural network?,A neural network is a machine learning model inspired by the human brain, consisting of layers of nodes (neurons) that process data through weighted connections to predict outcomes.,,,,,,,,,,A neural network is a machine learning model inspired by the human brain  consisting of layers of nodes (neurons) that process data through weighted connections to predict outcomes.
+Machine Learning,What is deep learning?,Deep learning is a subset of machine learning that involves using neural networks with many layers (deep networks) to model complex patterns in large datasets.,,,,,,,,,,,Deep learning is a subset of machine learning that involves using neural networks with many layers (deep networks) to model complex patterns in large datasets.
+Machine Learning,What is the difference between L1 and L2 regularization?,L1 regularization (Lasso) adds the absolute value of coefficients as a penalty term, encouraging sparsity in the model, while L2 regularization (Ridge) adds the square of coefficients, preventing overfitting without eliminating features.,,,,,,,,L1 regularization (Lasso) adds the absolute value of coefficients as a penalty term  encouraging sparsity in the model  while L2 regularization (Ridge) adds the square of coefficients  preventing overfitting without eliminating features.
+Machine Learning,What is PCA (Principal Component Analysis)?,PCA is a dimensionality reduction technique that transforms data into a smaller set of uncorrelated variables, called principal components, while retaining most of the variance in the data.,,,,,,,,,PCA is a dimensionality reduction technique that transforms data into a smaller set of uncorrelated variables  called principal components  while retaining most of the variance in the data.
+Machine Learning,What is the difference between classification and regression?,Classification is a type of machine learning task where the goal is to predict discrete labels, while regression is used to predict continuous values.,,,,,,,,,,Classification is a type of machine learning task where the goal is to predict discrete labels  while regression is used to predict continuous values.
+Machine Learning,What is the difference between a parametric and non-parametric model?,Parametric models make assumptions about the underlying data distribution and have a finite number of parameters, while non-parametric models do not make such assumptions and can have an infinite number of parameters.,,,,,,,,,,Parametric models make assumptions about the underlying data distribution and have a finite number of parameters  while non-parametric models do not make such assumptions and can have an infinite number of parameters.
+Machine Learning,What is an ensemble method?,An ensemble method combines the predictions of multiple models to improve the overall performance. Examples include random forests, boosting, and bagging.,,,,,,,,,An ensemble method combines the predictions of multiple models to improve the overall performance. Examples include random forests  boosting  and bagging.
+Machine Learning,What is random forest?,Random Forest is an ensemble learning method that combines multiple decision trees, using bootstrapping and feature randomness to improve prediction accuracy.,,,,,,,,,,Random Forest is an ensemble learning method that combines multiple decision trees  using bootstrapping and feature randomness to improve prediction accuracy.
+Machine Learning,What is Naive Bayes?,Naive Bayes is a probabilistic classifier based on applying Bayes' theorem with strong (naive) independence assumptions between the features.,,,,,,,,,,,Naive Bayes is a probabilistic classifier based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
+Machine Learning,What is the support vector machine (SVM) algorithm?,Support Vector Machine is a supervised learning algorithm used for classification and regression tasks, which aims to find the optimal hyperplane that separates the data into different classes.,,,,,,,,,,Support Vector Machine is a supervised learning algorithm used for classification and regression tasks  which aims to find the optimal hyperplane that separates the data into different classes.
+Machine Learning,What is the purpose of a learning rate in gradient descent?,The learning rate controls the size of the steps taken towards minimizing the cost function. A smaller rate might lead to slow convergence, while a larger rate can cause the model to overshoot the minimum.,,,,,,,,,,The learning rate controls the size of the steps taken towards minimizing the cost function. A smaller rate might lead to slow convergence  while a larger rate can cause the model to overshoot the minimum.
+Machine Learning,What is the difference between a linear regression and logistic regression?,Linear regression is used for predicting continuous values, whereas logistic regression is used for binary classification tasks, where the output is a probability.,,,,,,,,,Linear regression is used for predicting continuous values  whereas logistic regression is used for binary classification tasks  where the output is a probability.
+Machine Learning,What is the purpose of a cost function?,A cost function (or loss function) is used to measure the error between the predicted output and the actual result, guiding the optimization process during model training.,,,,,,,,,,A cost function (or loss function) is used to measure the error between the predicted output and the actual result  guiding the optimization process during model training.
+Machine Learning,What is the difference between an epoch and an iteration?,An epoch is one complete pass through the entire dataset, while an iteration refers to a single update of the model's weights during training.,,,,,,,,,,An epoch is one complete pass through the entire dataset  while an iteration refers to a single update of the model's weights during training.
+Machine Learning,What is transfer learning?,Transfer learning involves using a pre-trained model on one task and fine-tuning it for a different but related task, saving time and resources compared to training a model from scratch.,,,,,,,,,,Transfer learning involves using a pre-trained model on one task and fine-tuning it for a different but related task  saving time and resources compared to training a model from scratch.
+Machine Learning,What is a kernel in SVM?,A kernel is a function that transforms the data into a higher-dimensional space to make it easier to separate using a hyperplane, enabling non-linear decision boundaries.,,,,,,,,,,A kernel is a function that transforms the data into a higher-dimensional space to make it easier to separate using a hyperplane  enabling non-linear decision boundaries.
+Machine Learning,What is dropout in deep learning?,Dropout is a regularization technique where randomly selected neurons are ignored during training, helping to prevent overfitting and improve generalization.,,,,,,,,,,Dropout is a regularization technique where randomly selected neurons are ignored during training  helping to prevent overfitting and improve generalization.
+Machine Learning,What is the difference between a model's precision and accuracy?,Accuracy is the proportion of correct predictions over the total number of predictions, while precision specifically measures how many of the predicted positive instances are actually positive.,,,,,,,,,,Accuracy is the proportion of correct predictions over the total number of predictions  while precision specifically measures how many of the predicted positive instances are actually positive.
+Machine Learning,What is a validation set?,A validation set is a subset of data used to tune the hyperparameters of a model, helping to prevent overfitting by providing an estimate of model performance during training.,,,,,,,,,,A validation set is a subset of data used to tune the hyperparameters of a model  helping to prevent overfitting by providing an estimate of model performance during training.
+Machine Learning,What is a hyperparameter tuning?,Hyperparameter tuning is the process of selecting the optimal values for hyperparameters to improve the model's performance, often using techniques like grid search or random search.,,,,,,,,,,Hyperparameter tuning is the process of selecting the optimal values for hyperparameters to improve the model's performance  often using techniques like grid search or random search.
+Machine Learning,What is a recommender system?,A recommender system is an algorithmic solution designed to suggest items (e.g., products, movies, etc.) to users based on their preferences and behaviors.,,,,,,,,A recommender system is an algorithmic solution designed to suggest items (e.g.  products  movies  etc.) to users based on their preferences and behaviors.
+Machine Learning,What is the curse of dimensionality?,The curse of dimensionality refers to the challenges faced when dealing with high-dimensional data, such as sparse data and difficulty in finding meaningful patterns.,,,,,,,,,,The curse of dimensionality refers to the challenges faced when dealing with high-dimensional data  such as sparse data and difficulty in finding meaningful patterns.
+Machine Learning,What is batch normalization?,Batch normalization is a technique used in deep learning to normalize the inputs to a layer in a neural network, improving training speed and stability.,,,,,,,,,,Batch normalization is a technique used in deep learning to normalize the inputs to a layer in a neural network  improving training speed and stability.
+Machine Learning,What is an autoencoder?,An autoencoder is a type of neural network used for unsupervised learning that learns to compress and reconstruct input data, typically used for dimensionality reduction or anomaly detection.,,,,,,,,,,An autoencoder is a type of neural network used for unsupervised learning that learns to compress and reconstruct input data  typically used for dimensionality reduction or anomaly detection.
+Machine Learning,What is the purpose of the sigmoid activation function?,The sigmoid activation function squashes input values into a range between 0 and 1, making it useful for binary classification tasks by representing probabilities.,,,,,,,,,,The sigmoid activation function squashes input values into a range between 0 and 1  making it useful for binary classification tasks by representing probabilities.
+Machine Learning,What is a feature?,A feature is an individual measurable property or characteristic of the data used to make predictions in a machine learning model.,,,,,,,,,,,A feature is an individual measurable property or characteristic of the data used to make predictions in a machine learning model.
+Machine Learning,What is one-hot encoding?,One-hot encoding is a technique used to convert categorical variables into binary vectors, where each category is represented by a vector with a 1 in the position corresponding to the category.,,,,,,,,,,One-hot encoding is a technique used to convert categorical variables into binary vectors  where each category is represented by a vector with a 1 in the position corresponding to the category.
+Machine Learning,What is the difference between bagging and boosting?,Bagging is a parallel ensemble method where each model is trained independently, while boosting is a sequential ensemble method where each model is trained to correct the errors of the previous model.,,,,,,,,,,Bagging is a parallel ensemble method where each model is trained independently  while boosting is a sequential ensemble method where each model is trained to correct the errors of the previous model.
+Machine Learning,What is the difference between Lasso and Ridge regression?,Lasso regression uses L1 regularization to add a penalty to the absolute value of the coefficients, while Ridge regression uses L2 regularization to penalize the square of the coefficients.,,,,,,,,,,Lasso regression uses L1 regularization to add a penalty to the absolute value of the coefficients  while Ridge regression uses L2 regularization to penalize the square of the coefficients.
+Machine Learning,What is a Bayesian network?,A Bayesian network is a probabilistic graphical model that represents variables and their conditional dependencies using a directed acyclic graph.,,,,,,,,,,,A Bayesian network is a probabilistic graphical model that represents variables and their conditional dependencies using a directed acyclic graph.
+Machine Learning,What is a learning curve?,A learning curve shows the performance of a machine learning model over time or with increasing training data, helping to understand whether the model is improving, underfitting, or overfitting.,,,,,,,,A learning curve shows the performance of a machine learning model over time or with increasing training data  helping to understand whether the model is improving  underfitting  or overfitting.
+Machine Learning,What is an RNN (Recurrent Neural Network)?,An RNN is a type of neural network designed for sequential data where information is passed from one step to the next, making it useful for tasks like time series analysis and natural language processing.,,,,,,,,,,An RNN is a type of neural network designed for sequential data where information is passed from one step to the next  making it useful for tasks like time series analysis and natural language processing.
+Machine Learning,What is a convolutional neural network (CNN)?,A CNN is a deep learning model that is particularly effective for processing image data, using convolutional layers to automatically learn spatial hierarchies in the data.,,,,,,,,,,A CNN is a deep learning model that is particularly effective for processing image data  using convolutional layers to automatically learn spatial hierarchies in the data.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

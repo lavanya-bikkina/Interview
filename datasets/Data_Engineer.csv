@@ -1,0 +1,107 @@
+Domain,Question,,,,,,,,,,,,Answer
+Data Engineering,What is Data Engineering?,Data engineering is the practice of designing, building, and managing systems and infrastructure for collecting, storing, processing, and analyzing data.,,,,,,Data engineering is the practice of designing  building  and managing systems and infrastructure for collecting  storing  processing  and analyzing data.
+Data Engineering,What is the role of a data engineer?,A data engineer is responsible for designing, building, and maintaining systems and pipelines that enable data collection, storage, and analysis in an efficient and scalable manner.,,,,,,,A data engineer is responsible for designing  building  and maintaining systems and pipelines that enable data collection  storage  and analysis in an efficient and scalable manner.
+Data Engineering,What is ETL?,ETL stands for Extract, Transform, Load. It refers to the process of extracting data from different sources, transforming it into a usable format, and loading it into a data warehouse.,,,,,,,ETL stands for Extract  Transform  Load. It refers to the process of extracting data from different sources  transforming it into a usable format  and loading it into a data warehouse.
+Data Engineering,What is ELT?,ELT is similar to ETL but the data is first Extracted and Loaded into the destination system (like a data warehouse) before it is Transformed. This is usually used for larger datasets where transformation occurs after loading.,,,,,,,,,,,ELT is similar to ETL but the data is first Extracted and Loaded into the destination system (like a data warehouse) before it is Transformed. This is usually used for larger datasets where transformation occurs after loading.
+Data Engineering,What is a data pipeline?,A data pipeline is a series of processes and tools used to collect, process, and transfer data from one system to another in an automated fashion.,,,,,,,,,A data pipeline is a series of processes and tools used to collect  process  and transfer data from one system to another in an automated fashion.
+Data Engineering,What is a data warehouse?,A data warehouse is a large, centralized repository where data from different sources is stored, organized, and made available for analysis and reporting.,,,,,,,,A data warehouse is a large  centralized repository where data from different sources is stored  organized  and made available for analysis and reporting.
+Data Engineering,What is a data lake?,A data lake is a centralized repository that allows organizations to store vast amounts of raw, unstructured, and structured data in its native format until it is needed.,,,,,,,,,A data lake is a centralized repository that allows organizations to store vast amounts of raw  unstructured  and structured data in its native format until it is needed.
+Data Engineering,What is the difference between a data lake and a data warehouse?,A data lake stores unstructured or raw data and is often used for big data analytics, while a data warehouse stores structured data and is designed for querying and reporting.,,,,,,,,,,A data lake stores unstructured or raw data and is often used for big data analytics  while a data warehouse stores structured data and is designed for querying and reporting.
+Data Engineering,What is Apache Kafka?,Apache Kafka is an open-source distributed event streaming platform that allows for the real-time processing of large amounts of data, often used to handle data pipelines.,,,,,,,,,,Apache Kafka is an open-source distributed event streaming platform that allows for the real-time processing of large amounts of data  often used to handle data pipelines.
+Data Engineering,What is Apache Hadoop?,Apache Hadoop is an open-source framework for distributed storage and processing of large datasets across clusters of computers, using a simple programming model.,,,,,,,,,,Apache Hadoop is an open-source framework for distributed storage and processing of large datasets across clusters of computers  using a simple programming model.
+Data Engineering,What is Apache Spark?,Apache Spark is an open-source, distributed computing system that allows for fast processing of large datasets. It is often used for batch and stream processing.,,,,,,,,,,Apache Spark is an open-source  distributed computing system that allows for fast processing of large datasets. It is often used for batch and stream processing.
+Data Engineering,What is the role of SQL in data engineering?,SQL (Structured Query Language) is used in data engineering to interact with relational databases, querying, transforming, and manipulating structured data.,,,,,,,,SQL (Structured Query Language) is used in data engineering to interact with relational databases  querying  transforming  and manipulating structured data.
+Data Engineering,What is the importance of data normalization?,Data normalization is the process of structuring data to reduce redundancy and improve integrity, making it more efficient for analysis and storage.,,,,,,,,,,Data normalization is the process of structuring data to reduce redundancy and improve integrity  making it more efficient for analysis and storage.
+Data Engineering,What is data cleaning?,Data cleaning is the process of identifying and correcting errors or inconsistencies in data to ensure it is accurate, complete, and usable.,,,,,,,,,Data cleaning is the process of identifying and correcting errors or inconsistencies in data to ensure it is accurate  complete  and usable.
+Data Engineering,What is data wrangling?,Data wrangling is the process of transforming and mapping raw data into a more structured and usable format, often for analysis or modeling purposes.,,,,,,,,,,Data wrangling is the process of transforming and mapping raw data into a more structured and usable format  often for analysis or modeling purposes.
+Data Engineering,What are the common tools used for data engineering?,Common tools include Apache Hadoop, Apache Spark, Apache Kafka, Airflow, Talend, dbt, SQL, Python, and cloud platforms like AWS, GCP, and Azure.,Common tools include Apache Hadoop  Apache Spark  Apache Kafka  Airflow  Talend  dbt  SQL  Python  and cloud platforms like AWS  GCP  and Azure.
+Data Engineering,What is cloud data engineering?,Cloud data engineering involves the design, development, and maintenance of data systems and pipelines that leverage cloud technologies, providing scalability, flexibility, and cost efficiency.,,,,,,Cloud data engineering involves the design  development  and maintenance of data systems and pipelines that leverage cloud technologies  providing scalability  flexibility  and cost efficiency.
+Data Engineering,What is a data mart?,A data mart is a subset of a data warehouse, focused on a particular department, business unit, or area, and used for targeted reporting and analysis.,,,,,,,A data mart is a subset of a data warehouse  focused on a particular department  business unit  or area  and used for targeted reporting and analysis.
+Data Engineering,What is a schema in a database?,A schema is a blueprint or structure of a database that defines the organization of data, including tables, views, relationships, and constraints.,,,,,,,A schema is a blueprint or structure of a database that defines the organization of data  including tables  views  relationships  and constraints.
+Data Engineering,What is a relational database?,A relational database is a type of database that stores data in a structured format, using rows and columns, and enforces relationships between tables through keys.,,,,,,,,,A relational database is a type of database that stores data in a structured format  using rows and columns  and enforces relationships between tables through keys.
+Data Engineering,What is a NoSQL database?,A NoSQL database is a non-relational database designed for handling large volumes of unstructured or semi-structured data, such as MongoDB, Cassandra, and CouchDB.,,,,,,,,A NoSQL database is a non-relational database designed for handling large volumes of unstructured or semi-structured data  such as MongoDB  Cassandra  and CouchDB.
+Data Engineering,What is indexing in a database?,Indexing is the process of creating a data structure that improves the speed of data retrieval operations on a database by reducing the number of disk accesses.,,,,,,,,,,,Indexing is the process of creating a data structure that improves the speed of data retrieval operations on a database by reducing the number of disk accesses.
+Data Engineering,What is partitioning in a database?,Partitioning is the process of dividing a large database into smaller, more manageable pieces to improve performance and availability.,,,,,,,,,,Partitioning is the process of dividing a large database into smaller  more manageable pieces to improve performance and availability.
+Data Engineering,What is data governance?,Data governance refers to the management of data availability, usability, integrity, and security within an organization, ensuring that data is accurate and used responsibly.,,,,,,,Data governance refers to the management of data availability  usability  integrity  and security within an organization  ensuring that data is accurate and used responsibly.
+Data Engineering,What is data lineage?,Data lineage is the tracking and visualization of the flow of data through its various transformations and stages, providing insight into its origins and movement.,,,,,,,,,,Data lineage is the tracking and visualization of the flow of data through its various transformations and stages  providing insight into its origins and movement.
+Data Engineering,What is batch processing?,Batch processing involves processing large amounts of data in groups or batches at scheduled intervals, rather than in real-time.,,,,,,,,,,Batch processing involves processing large amounts of data in groups or batches at scheduled intervals  rather than in real-time.
+Data Engineering,What is stream processing?,Stream processing involves processing data in real-time as it is generated, providing instant analysis and enabling time-sensitive decisions.,,,,,,,,,,Stream processing involves processing data in real-time as it is generated  providing instant analysis and enabling time-sensitive decisions.
+Data Engineering,What is the role of data engineering in machine learning?,Data engineering supports machine learning by providing high-quality, well-structured, and cleaned data for training models and enabling the automation of data processing tasks.,,,,,,,,,Data engineering supports machine learning by providing high-quality  well-structured  and cleaned data for training models and enabling the automation of data processing tasks.
+Data Engineering,What is a distributed system?,A distributed system is a network of computers that work together to provide a single system's functionality, often used in data engineering for processing large datasets across multiple nodes.,,,,,,,,,,A distributed system is a network of computers that work together to provide a single system's functionality  often used in data engineering for processing large datasets across multiple nodes.
+Data Engineering,What is a big data platform?,A big data platform is an integrated software suite designed to handle, store, and process massive amounts of data, often across distributed systems.,,,,,,,,A big data platform is an integrated software suite designed to handle  store  and process massive amounts of data  often across distributed systems.
+Data Engineering,What is data orchestration?,Data orchestration is the management and automation of data workflows across various systems, tools, and services, ensuring that data flows efficiently and without interruption.,,,,,,,,Data orchestration is the management and automation of data workflows across various systems  tools  and services  ensuring that data flows efficiently and without interruption.
+Data Engineering,What is Apache Airflow?,Apache Airflow is an open-source platform used to schedule, monitor, and manage data workflows, often used in data engineering for automating ETL and other data processes.,,,,,,,,Apache Airflow is an open-source platform used to schedule  monitor  and manage data workflows  often used in data engineering for automating ETL and other data processes.
+Data Engineering,What is a transformation in ETL?,A transformation in ETL refers to the process of converting or cleaning data to meet the requirements of the target system or to ensure consistency and quality.,,,,,,,,,,,A transformation in ETL refers to the process of converting or cleaning data to meet the requirements of the target system or to ensure consistency and quality.
+Data Engineering,What are the key challenges in data engineering?,Challenges include dealing with large data volumes, ensuring data quality and consistency, handling data privacy and security concerns, and maintaining scalable systems.,,,,,,,,Challenges include dealing with large data volumes  ensuring data quality and consistency  handling data privacy and security concerns  and maintaining scalable systems.
+Data Engineering,What is sharding in a database?,Sharding is the process of splitting a database into smaller, more manageable pieces, called shards, which can be stored across multiple servers or locations.,,,,,,,,Sharding is the process of splitting a database into smaller  more manageable pieces  called shards  which can be stored across multiple servers or locations.
+Data Engineering,What is a data dictionary?,A data dictionary is a centralized repository that contains metadata and describes the structure, relationships, and attributes of data elements within a database.,,,,,,,,,A data dictionary is a centralized repository that contains metadata and describes the structure  relationships  and attributes of data elements within a database.
+Data Engineering,What is a columnar database?,A columnar database stores data in columns instead of rows, which can improve performance for read-heavy analytical queries.,,,,,,,,,,A columnar database stores data in columns instead of rows  which can improve performance for read-heavy analytical queries.
+Data Engineering,What is an OLTP system?,An OLTP (Online Transaction Processing) system is a database system designed for managing and processing transactional data, supporting high-frequency operations.,,,,,,,,,,An OLTP (Online Transaction Processing) system is a database system designed for managing and processing transactional data  supporting high-frequency operations.
+Data Engineering,What is an OLAP system?,An OLAP (Online Analytical Processing) system is a database system designed for complex queries and analytical processing, supporting multidimensional analysis.,,,,,,,,,,An OLAP (Online Analytical Processing) system is a database system designed for complex queries and analytical processing  supporting multidimensional analysis.
+Data Engineering,What is an API in data engineering?,An API (Application Programming Interface) is a set of rules and protocols that allow different software systems to communicate and exchange data.,,,,,,,,,,,An API (Application Programming Interface) is a set of rules and protocols that allow different software systems to communicate and exchange data.
+Data Engineering,What is the role of version control in data engineering?,Version control is used to manage changes to data engineering code (such as SQL scripts, Python code, and configurations), ensuring collaboration, tracking changes, and preventing errors.,,,,,,Version control is used to manage changes to data engineering code (such as SQL scripts  Python code  and configurations)  ensuring collaboration  tracking changes  and preventing errors.
+Data Engineering,What is a graph database?,A graph database is a NoSQL database that uses graph structures to represent and store data, with nodes, edges, and properties to model relationships between data.,,,,,,,,A graph database is a NoSQL database that uses graph structures to represent and store data  with nodes  edges  and properties to model relationships between data.
+Data Engineering,What is Hadoop Distributed File System (HDFS)?,HDFS is a distributed storage system used by Apache Hadoop to store large datasets across multiple machines, ensuring high availability and fault tolerance.,,,,,,,,,,HDFS is a distributed storage system used by Apache Hadoop to store large datasets across multiple machines  ensuring high availability and fault tolerance.
+Data Engineering,What is data streaming?,Data streaming is the continuous flow of data, processed in real-time as it arrives, often used for applications that require immediate analysis, such as fraud detection.,,,,,,,,Data streaming is the continuous flow of data  processed in real-time as it arrives  often used for applications that require immediate analysis  such as fraud detection.
+Data Engineering,What is Spark SQL?,Spark SQL is a module in Apache Spark that enables querying and processing structured data using SQL, with optimizations for distributed computing.,,,,,,,,,,Spark SQL is a module in Apache Spark that enables querying and processing structured data using SQL  with optimizations for distributed computing.
+Data Engineering,What is schema-on-read?,Schema-on-read refers to a data storage approach where data is stored in its raw form and the schema is applied when the data is read or queried, often used in data lakes.,,,,,,,,,,Schema-on-read refers to a data storage approach where data is stored in its raw form and the schema is applied when the data is read or queried  often used in data lakes.
+Data Engineering,What is schema-on-write?,Schema-on-write refers to a data storage approach where the schema is applied when data is written to the database, often used in data warehouses and relational databases.,,,,,,,,,,Schema-on-write refers to a data storage approach where the schema is applied when data is written to the database  often used in data warehouses and relational databases.
+Data Engineering,What is the importance of data security in data engineering?,Data security ensures that sensitive data is protected from unauthorized access, breaches, and theft, and is a critical aspect of data engineering processes.,,,,,,,,Data security ensures that sensitive data is protected from unauthorized access  breaches  and theft  and is a critical aspect of data engineering processes.
+Data Engineering,What is Apache Flink?,Apache Flink is an open-source stream processing framework for big data applications, providing high-throughput, low-latency processing with stateful computations.,,,,,,,,,Apache Flink is an open-source stream processing framework for big data applications  providing high-throughput  low-latency processing with stateful computations.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

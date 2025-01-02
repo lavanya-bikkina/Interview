@@ -1,0 +1,181 @@
+Domain,Question,,,,,,,,,,,,Answer
+Cybersecurity,What is cybersecurity?,Cybersecurity refers to the practice of protecting systems, networks, and data from digital attacks, unauthorized access, and damage.,,,,,,,Cybersecurity refers to the practice of protecting systems  networks  and data from digital attacks  unauthorized access  and damage.
+Cybersecurity,What are the main types of cybersecurity threats?,The main types of cybersecurity threats are malware, phishing, ransomware, social engineering, denial-of-service (DoS) attacks, and insider threats.,,,,,,The main types of cybersecurity threats are malware  phishing  ransomware  social engineering  denial-of-service (DoS) attacks  and insider threats.
+Cybersecurity,What is malware?,Malware (malicious software) is any software intentionally designed to cause damage to a computer, server, or network, including viruses, worms, and Trojan horses.,,,,,,Malware (malicious software) is any software intentionally designed to cause damage to a computer  server  or network  including viruses  worms  and Trojan horses.
+Cybersecurity,What is phishing?,Phishing is a type of cyberattack where attackers impersonate legitimate entities to trick individuals into providing sensitive information, such as login credentials or financial information.,,,,,,,,,,Phishing is a type of cyberattack where attackers impersonate legitimate entities to trick individuals into providing sensitive information  such as login credentials or financial information.
+Cybersecurity,What is ransomware?,Ransomware is a type of malware that encrypts a victim’s files and demands payment, often in cryptocurrency, in exchange for decryption keys.,,,,,,,,,Ransomware is a type of malware that encrypts a victim’s files and demands payment  often in cryptocurrency  in exchange for decryption keys.
+Cybersecurity,What is a firewall?,A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.,,,,,,,,,,,A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+Cybersecurity,What is encryption?,Encryption is the process of converting data into a code to prevent unauthorized access, ensuring that only authorized parties can read the data.,,,,,,,,,,Encryption is the process of converting data into a code to prevent unauthorized access  ensuring that only authorized parties can read the data.
+Cybersecurity,What is two-factor authentication (2FA)?,Two-factor authentication (2FA) is a security process in which a user provides two forms of identification before gaining access to an account, typically a password and a temporary code sent to their device.,,,,,,,,,,Two-factor authentication (2FA) is a security process in which a user provides two forms of identification before gaining access to an account  typically a password and a temporary code sent to their device.
+Cybersecurity,What is a VPN (Virtual Private Network)?,A VPN is a service that encrypts a user’s internet connection and routes it through a remote server, enhancing privacy and security.,,,,,,,,,,A VPN is a service that encrypts a user’s internet connection and routes it through a remote server  enhancing privacy and security.
+Cybersecurity,What is a DDoS attack?,A Distributed Denial-of-Service (DDoS) attack is a cyberattack where multiple systems overwhelm a target system, such as a website or server, with excessive traffic to make it unavailable to users.,,,,,,,,,A Distributed Denial-of-Service (DDoS) attack is a cyberattack where multiple systems overwhelm a target system  such as a website or server  with excessive traffic to make it unavailable to users.
+Cybersecurity,What is an intrusion detection system (IDS)?,An intrusion detection system (IDS) is a device or software application that monitors network traffic for suspicious activity and potential threats.,,,,,,,,,,,An intrusion detection system (IDS) is a device or software application that monitors network traffic for suspicious activity and potential threats.
+Cybersecurity,What is an intrusion prevention system (IPS)?,An intrusion prevention system (IPS) is similar to IDS but actively works to block potential threats based on detected malicious activity.,,,,,,,,,,,An intrusion prevention system (IPS) is similar to IDS but actively works to block potential threats based on detected malicious activity.
+Cybersecurity,What is social engineering?,Social engineering is the manipulation of individuals into divulging confidential information or performing actions that may compromise security.,,,,,,,,,,,Social engineering is the manipulation of individuals into divulging confidential information or performing actions that may compromise security.
+Cybersecurity,What is an antivirus software?,Antivirus software is a program designed to detect, prevent, and remove malicious software from a computer or network.,,,,,,,,,Antivirus software is a program designed to detect  prevent  and remove malicious software from a computer or network.
+Cybersecurity,What is a zero-day exploit?,A zero-day exploit is a cyberattack that targets a previously unknown vulnerability in software or hardware, often before developers have had a chance to fix it.,,,,,,,,,,A zero-day exploit is a cyberattack that targets a previously unknown vulnerability in software or hardware  often before developers have had a chance to fix it.
+Cybersecurity,What is a botnet?,A botnet is a network of compromised computers or devices, often used to carry out DDoS attacks or distribute malware without the knowledge of the device owner.,,,,,,,,,,A botnet is a network of compromised computers or devices  often used to carry out DDoS attacks or distribute malware without the knowledge of the device owner.
+Cybersecurity,What is a public key infrastructure (PKI)?,Public Key Infrastructure (PKI) is a framework that manages digital keys and certificates to provide secure communication over a network.,,,,,,,,,,,Public Key Infrastructure (PKI) is a framework that manages digital keys and certificates to provide secure communication over a network.
+Cybersecurity,What is a honeypot in cybersecurity?,A honeypot is a decoy system or network setup to attract and trap attackers, allowing security professionals to study their methods.,,,,,,,,,,A honeypot is a decoy system or network setup to attract and trap attackers  allowing security professionals to study their methods.
+Cybersecurity,What is a vulnerability?,A vulnerability is a weakness or flaw in a system, software, or network that can be exploited by attackers to gain unauthorized access or cause harm.,,,,,,,,,A vulnerability is a weakness or flaw in a system  software  or network that can be exploited by attackers to gain unauthorized access or cause harm.
+Cybersecurity,What is patch management?,Patch management is the process of regularly updating software and systems to fix vulnerabilities and improve security.,,,,,,,,,,,Patch management is the process of regularly updating software and systems to fix vulnerabilities and improve security.
+Cybersecurity,What is a breach?,A breach refers to the unauthorized access or disclosure of sensitive data, such as personal or financial information, typically due to a security vulnerability or cyberattack.,,,,,,,,,A breach refers to the unauthorized access or disclosure of sensitive data  such as personal or financial information  typically due to a security vulnerability or cyberattack.
+Cybersecurity,What is risk management in cybersecurity?,Risk management in cybersecurity involves identifying, assessing, and mitigating risks to information systems to protect against potential security threats.,,,,,,,,,Risk management in cybersecurity involves identifying  assessing  and mitigating risks to information systems to protect against potential security threats.
+Cybersecurity,What is multi-factor authentication (MFA)?,Multi-factor authentication (MFA) is a security mechanism that requires more than one form of identification (e.g., password, fingerprint, or one-time code) to verify a user’s identity.,,,,,,,,Multi-factor authentication (MFA) is a security mechanism that requires more than one form of identification (e.g.  password  fingerprint  or one-time code) to verify a user’s identity.
+Cybersecurity,What is a cybersecurity framework?,A cybersecurity framework is a set of guidelines and best practices used to manage and mitigate cybersecurity risks, such as NIST or ISO 27001.,,,,,,,,,,A cybersecurity framework is a set of guidelines and best practices used to manage and mitigate cybersecurity risks  such as NIST or ISO 27001.
+Cybersecurity,What is ISO/IEC 27001?,ISO/IEC 27001 is an international standard for information security management systems (ISMS) that outlines best practices for establishing, implementing, and maintaining information security controls.,,,,,,,,,ISO/IEC 27001 is an international standard for information security management systems (ISMS) that outlines best practices for establishing  implementing  and maintaining information security controls.
+Cybersecurity,What is data loss prevention (DLP)?,Data loss prevention (DLP) is a strategy and set of tools designed to detect and prevent the unauthorized transmission or leakage of sensitive data.,,,,,,,,,,,Data loss prevention (DLP) is a strategy and set of tools designed to detect and prevent the unauthorized transmission or leakage of sensitive data.
+Cybersecurity,What is threat hunting?,Threat hunting is the proactive search for signs of malicious activity or threats within an organization’s network, typically conducted by security professionals.,,,,,,,,,,Threat hunting is the proactive search for signs of malicious activity or threats within an organization’s network  typically conducted by security professionals.
+Cybersecurity,What is a cybersecurity incident response plan?,A cybersecurity incident response plan is a set of procedures that organizations follow when responding to a cybersecurity breach or attack.,,,,,,,,,,,A cybersecurity incident response plan is a set of procedures that organizations follow when responding to a cybersecurity breach or attack.
+Cybersecurity,What is endpoint security?,Endpoint security involves securing end-user devices (such as laptops, smartphones, and desktops) against cyber threats by deploying antivirus, firewalls, and other protective measures.,,,,,,,Endpoint security involves securing end-user devices (such as laptops  smartphones  and desktops) against cyber threats by deploying antivirus  firewalls  and other protective measures.
+Cybersecurity,What is identity and access management (IAM)?,Identity and Access Management (IAM) is the process of managing user identities and controlling their access to resources within an organization.,,,,,,,,,,,Identity and Access Management (IAM) is the process of managing user identities and controlling their access to resources within an organization.
+Cybersecurity,What is a security operations center (SOC)?,A Security Operations Center (SOC) is a centralized unit that monitors, detects, and responds to security threats and incidents across an organization’s infrastructure.,,,,,,,,,A Security Operations Center (SOC) is a centralized unit that monitors  detects  and responds to security threats and incidents across an organization’s infrastructure.
+Cybersecurity,What is a ransomware attack?,A ransomware attack is a type of cyberattack where malicious software encrypts the victim’s data and demands a ransom for decryption.,,,,,,,,,,,A ransomware attack is a type of cyberattack where malicious software encrypts the victim’s data and demands a ransom for decryption.
+Cybersecurity,What is the principle of least privilege?,The principle of least privilege is the security concept of granting users or systems only the minimal level of access necessary to perform their tasks.,,,,,,,,,,,The principle of least privilege is the security concept of granting users or systems only the minimal level of access necessary to perform their tasks.
+Cybersecurity,What is a firewall rule?,A firewall rule defines the conditions under which network traffic should be allowed or blocked, based on factors such as IP addresses, ports, and protocols.,,,,,,,,A firewall rule defines the conditions under which network traffic should be allowed or blocked  based on factors such as IP addresses  ports  and protocols.
+Cybersecurity,What is a network access control (NAC)?,Network Access Control (NAC) is a security solution that manages and monitors access to an organization’s network, ensuring that only authorized devices can connect.,,,,,,,,,,Network Access Control (NAC) is a security solution that manages and monitors access to an organization’s network  ensuring that only authorized devices can connect.
+Cybersecurity,What is a security breach?,A security breach occurs when an unauthorized person gains access to sensitive data, systems, or networks.,,,,,,,,,A security breach occurs when an unauthorized person gains access to sensitive data  systems  or networks.
+Cybersecurity,What is application security?,Application security involves measures taken to prevent security vulnerabilities and threats in software applications, such as secure coding practices and regular testing.,,,,,,,,,,Application security involves measures taken to prevent security vulnerabilities and threats in software applications  such as secure coding practices and regular testing.
+Cybersecurity,What is a security patch?,A security patch is a software update that fixes vulnerabilities or weaknesses in a system to prevent exploitation by attackers.,,,,,,,,,,,A security patch is a software update that fixes vulnerabilities or weaknesses in a system to prevent exploitation by attackers.
+Cybersecurity,What is data encryption at rest?,Data encryption at rest refers to the process of encrypting data when it is stored on a disk or other storage medium, ensuring that it is protected even if the storage is compromised.,,,,,,,,,,Data encryption at rest refers to the process of encrypting data when it is stored on a disk or other storage medium  ensuring that it is protected even if the storage is compromised.
+Cybersecurity,What is data encryption in transit?,Data encryption in transit refers to encrypting data while it is being transmitted over a network, ensuring it is protected from interception during communication.,,,,,,,,,,Data encryption in transit refers to encrypting data while it is being transmitted over a network  ensuring it is protected from interception during communication.
+Cybersecurity,What is a security audit?,A security audit is an examination of an organization's information systems and controls to assess their security posture and identify potential vulnerabilities.,,,,,,,,,,,A security audit is an examination of an organization's information systems and controls to assess their security posture and identify potential vulnerabilities.
+Cybersecurity,What is a denial-of-service (DoS) attack?,A Denial-of-Service (DoS) attack is a type of cyberattack where the attacker floods a system or network with excessive traffic to overwhelm its resources and make it unavailable.,,,,,,,,,,,A Denial-of-Service (DoS) attack is a type of cyberattack where the attacker floods a system or network with excessive traffic to overwhelm its resources and make it unavailable.
+Cybersecurity,What is a vulnerability scanner?,A vulnerability scanner is a tool that scans systems, networks, or applications for known security vulnerabilities or weaknesses.,,,,,,,,,A vulnerability scanner is a tool that scans systems  networks  or applications for known security vulnerabilities or weaknesses.
+Cybersecurity,What is a penetration test?,A penetration test (pen test) is a simulated cyberattack on an organization’s systems, conducted to identify and exploit vulnerabilities before malicious hackers can.,,,,,,,,,,A penetration test (pen test) is a simulated cyberattack on an organization’s systems  conducted to identify and exploit vulnerabilities before malicious hackers can.
+Cybersecurity,What is a cyberattack?,A cyberattack is a deliberate and malicious attempt to breach the confidentiality, integrity, or availability of information systems or data.,,,,,,,,,A cyberattack is a deliberate and malicious attempt to breach the confidentiality  integrity  or availability of information systems or data.
+Cybersecurity,What is a threat intelligence platform?,A threat intelligence platform is a system that collects, analyzes, and disseminates information about current and potential cybersecurity threats to help organizations defend against them.,,,,,,,,,A threat intelligence platform is a system that collects  analyzes  and disseminates information about current and potential cybersecurity threats to help organizations defend against them.
+Cybersecurity,What is a bot?,A bot is an automated program that performs tasks over the internet, often used by attackers for malicious purposes, such as launching DDoS attacks or spreading malware.,,,,,,,,,A bot is an automated program that performs tasks over the internet  often used by attackers for malicious purposes  such as launching DDoS attacks or spreading malware.
+Cybersecurity,What is blockchain in cybersecurity?,Blockchain technology can be used to improve cybersecurity by providing a decentralized and tamper-resistant system for storing and verifying transactions, helping to secure data.,,,,,,,,,,Blockchain technology can be used to improve cybersecurity by providing a decentralized and tamper-resistant system for storing and verifying transactions  helping to secure data.
+Cybersecurity,What is a disaster recovery plan (DRP)?,A disaster recovery plan (DRP) is a set of policies and procedures that organizations follow to recover and restore their IT systems and data in case of a disaster or cyberattack.,,,,,,,,,,,A disaster recovery plan (DRP) is a set of policies and procedures that organizations follow to recover and restore their IT systems and data in case of a disaster or cyberattack.
+Cybersecurity,What is a VPN tunnel?,A VPN tunnel is a secure, encrypted connection between a user’s device and a remote server, which ensures that data transmitted over the network remains private.,,,,,,,,,A VPN tunnel is a secure  encrypted connection between a user’s device and a remote server  which ensures that data transmitted over the network remains private.
+Cybersecurity,What is zero-trust security?,Zero-trust security is a security model that assumes no one, whether inside or outside the network, can be trusted, and verifies all users and devices before granting access to resources.,,,,,,,,Zero-trust security is a security model that assumes no one  whether inside or outside the network  can be trusted  and verifies all users and devices before granting access to resources.
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

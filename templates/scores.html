@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Results</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 60%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            text-align: center;
+        }
+        h1 {
+            color: #2a9d8f;
+        }
+        .final-score {
+            font-size: 22px;
+            color: #000908;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        .overall-similarity {
+            font-size: 20px;
+            color: #000202;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Interview Results</h1>
+    <div class="final-score">
+        Your final score is: <span id="finalScore"></span>
+    </div>
+    <div class="overall-similarity">
+        Your overall similarity score is: <span id="similarityScore"></span>
+    </div>
+</div>
+
+<script>
+    // Get query parameters for final score and similarity score
+    const urlParams = new URLSearchParams(window.location.search);
+    const finalScore = urlParams.get('final_score');
+    const similarityScore = urlParams.get('average_similarity_score');
+
+    // Display the scores on the page
+    document.getElementById("finalScore").textContent = `${finalScore} out of 5`;
+    document.getElementById("similarityScore").textContent = similarityScore;
+</script>
+
+</body>
+</html>
